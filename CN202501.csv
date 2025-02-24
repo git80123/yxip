@@ -1,0 +1,1287 @@
+﻿host,ip,port,protocol,title,domain,country,city,link,as_organization
+219.131.11.156:9191,219.131.11.156,9191,http,,,CN,Huizhou,http://219.131.11.156:9191,Chinanet
+180.102.25.115:9092,180.102.25.115,9092,http,,,CN,Nanjing,http://180.102.25.115:9092,CHINANET Nanjing Jishan IDC network
+180.102.26.44:9092,180.102.26.44,9092,http,,,CN,Nanjing,http://180.102.26.44:9092,CHINANET Nanjing Jishan IDC network
+118.145.211.218:9990,118.145.211.218,9990,http,,,CN,Beijing,http://118.145.211.218:9990,
+221.14.157.246:8020,221.14.157.246,8020,http,,,CN,Xuchang,http://221.14.157.246:8020,CHINA UNICOM China169 Backbone
+121.8.24.145:9090,121.8.24.145,9090,http,,,CN,Guangzhou,http://121.8.24.145:9090,Chinanet
+222.83.148.205:9090,222.83.148.205,9090,http,,,CN,Nanning,http://222.83.148.205:9090,Chinanet
+tomsheep.cloudns.nz:9090,111.193.226.155,9090,http,,cloudns.nz,CN,Beijing,http://tomsheep.cloudns.nz:9090,China Unicom Beijing Province Network
+47.100.233.136:9090,47.100.233.136,9090,http,,,CN,Shanghai,http://47.100.233.136:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+49.232.75.135:9090,49.232.75.135,9090,http,,,CN,Beijing,http://49.232.75.135:9090,Shenzhen Tencent Computer Systems Company Limited
+182.90.92.131:9090,182.90.92.131,9090,http,,,CN,Nanning,http://182.90.92.131:9090,CHINA UNICOM China169 Backbone
+103.8.68.246:9090,103.8.68.246,9090,http,,,CN,Shiyan,http://103.8.68.246:9090,
+1.190.6.213:9090,1.190.6.213,9090,http,,,CN,Daqing,http://1.190.6.213:9090,CHINA UNICOM China169 Backbone
+182.138.151.121:9090,182.138.151.121,9090,http,,,CN,Chengdu,http://182.138.151.121:9090,Chinanet
+101.6.41.109:9090,101.6.41.109,9090,http,,,CN,Beijing,http://101.6.41.109:9090,China Education and Research Network Center
+125.37.163.4:9090,125.37.163.4,9090,http,,,CN,Tianjin,http://125.37.163.4:9090,CHINA UNICOM China169 Backbone
+180.102.20.235:9091,180.102.20.235,9091,http,,,CN,Nanjing,http://180.102.20.235:9091,CHINANET Nanjing Jishan IDC network
+58.38.42.149:9090,58.38.42.149,9090,http,,,CN,Shanghai,http://58.38.42.149:9090,China Telecom Group
+115.196.224.251:9090,115.196.224.251,9090,http,,,CN,Hangzhou,http://115.196.224.251:9090,Chinanet
+123.232.169.172:9090,123.232.169.172,9090,http,,,CN,Jinan,http://123.232.169.172:9090,CHINA UNICOM China169 Backbone
+https://222.64.23.136:9090,222.64.23.136,9090,https,,,CN,Shanghai,https://222.64.23.136:9090,China Telecom Group
+119.176.248.34:9090,119.176.248.34,9090,http,,,CN,Linyi,http://119.176.248.34:9090,CHINA UNICOM China169 Backbone
+111.196.135.39:9090,111.196.135.39,9090,http,,,CN,Beijing,http://111.196.135.39:9090,China Unicom Beijing Province Network
+222.70.62.150:9090,222.70.62.150,9090,http,,,CN,Shanghai,http://222.70.62.150:9090,China Telecom Group
+106.122.192.147:9090,106.122.192.147,9090,http,,,CN,Guangzhou,http://106.122.192.147:9090,Chinanet
+132.232.84.178:9090,132.232.84.178,9090,http,,,CN,Beijing,http://132.232.84.178:9090,Shenzhen Tencent Computer Systems Company Limited
+171.42.17.227:9090,171.42.17.227,9090,http,,,CN,Yichang,http://171.42.17.227:9090,Chinanet
+174.95.168.221:9090,174.95.168.221,9090,http,,,CA,Toronto,http://174.95.168.221:9090,BACOM
+106.37.127.99:9090,106.37.127.99,9090,http,,,CN,Beijing,http://106.37.127.99:9090,China Networks Inter-Exchange
+139.129.32.94:9090,139.129.32.94,9090,http,,,CN,Qingdao,http://139.129.32.94:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+222.92.117.238:9090,222.92.117.238,9090,http,,,CN,Suzhou,http://222.92.117.238:9090,Chinanet
+113.87.227.43:9090,113.87.227.43,9090,http,,,CN,Shenzhen,http://113.87.227.43:9090,Chinanet
+113.111.23.100:9090,113.111.23.100,9090,http,,,CN,Guangzhou,http://113.111.23.100:9090,Chinanet
+125.111.204.34:9090,125.111.204.34,9090,http,,,CN,Ningbo,http://125.111.204.34:9090,Chinanet
+182.130.209.235:9090,182.130.209.235,9090,http,,,CN,Luzhou,http://182.130.209.235:9090,CHINATELECOM SiChuan province Luzhou 5G network
+27.41.241.224:9091,27.41.241.224,9091,http,,,CN,Shantou,http://27.41.241.224:9091,China Unicom IP network China169 Guangdong province
+175.44.42.112:9090,175.44.42.112,9090,http,,,CN,Putian,http://175.44.42.112:9090,CHINA UNICOM China169 Backbone
+180.110.139.106:9090,180.110.139.106,9090,http,,,CN,Nanjing,http://180.110.139.106:9090,Chinanet
+110.187.193.27:9090,110.187.193.27,9090,http,,,CN,Luzhou,http://110.187.193.27:9090,CHINATELECOM SiChuan province Luzhou 5G network
+baihuafalian.com:9090,180.76.248.182,9090,http,,baihuafalian.com,CN,Beijing,http://baihuafalian.com:9090,"Beijing Baidu Netcom Science and Technology Co., Ltd."
+183.173.138.199:9090,183.173.138.199,9090,http,,,CN,Beijing,http://183.173.138.199:9090,China Education and Research Network Center
+27.11.2.55:9090,27.11.2.55,9090,http,,,CN,Chongqing,http://27.11.2.55:9090,CHINA UNICOM China169 Backbone
+58.242.78.38:9090,58.242.78.38,9090,http,,,CN,Chuzhou,http://58.242.78.38:9090,CHINA UNICOM China169 Backbone
+125.118.248.215:9090,125.118.248.215,9090,http,,,CN,Hangzhou,http://125.118.248.215:9090,Chinanet
+175.44.42.63:9090,175.44.42.63,9090,http,,,CN,Putian,http://175.44.42.63:9090,CHINA UNICOM China169 Backbone
+180.102.25.115:9099,180.102.25.115,9099,http,,,CN,Nanjing,http://180.102.25.115:9099,CHINANET Nanjing Jishan IDC network
+180.108.215.128:9090,180.108.215.128,9090,http,,,CN,Suzhou,http://180.108.215.128:9090,Chinanet
+125.70.120.247:9090,125.70.120.247,9090,http,,,CN,Chengdu,http://125.70.120.247:9090,Chinanet
+60.162.137.69:9090,60.162.137.69,9090,http,,,CN,Taizhou,http://60.162.137.69:9090,Chinanet
+36.103.199.98:9090,36.103.199.98,9090,http,,,CN,Hangzhou,http://36.103.199.98:9090,CHINANET NINGXIA province ZHONGWEI IDC network
+180.165.169.102:9090,180.165.169.102,9090,http,,,CN,Shanghai,http://180.165.169.102:9090,China Telecom Group
+221.239.141.232:9090,221.239.141.232,9090,http,,,CN,Shanghai,http://221.239.141.232:9090,China Telecom Group
+60.205.137.90:9090,60.205.137.90,9090,http,,,CN,Beijing,http://60.205.137.90:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+140.179.110.65:9990,140.179.110.65,9990,http,,,CN,Beijing,http://140.179.110.65:9990,Beijing Guanghuan Xinwang Digital
+101.6.22.86:9090,101.6.22.86,9090,http,,,CN,Beijing,http://101.6.22.86:9090,China Education and Research Network Center
+116.26.121.190:9090,116.26.121.190,9090,http,,,CN,Shantou,http://116.26.121.190:9090,Chinanet
+175.9.53.166:9090,175.9.53.166,9090,http,,,CN,Changsha,http://175.9.53.166:9090,Chinanet
+36.24.97.60:9090,36.24.97.60,9090,http,,,CN,Hangzhou,http://36.24.97.60:9090,Chinanet
+121.60.57.222:9090,121.60.57.222,9090,http,,,CN,Wuhan,http://121.60.57.222:9090,Chinanet
+192.144.213.47:9090,192.144.213.47,9090,http,,,CN,Beijing,http://192.144.213.47:9090,Shenzhen Tencent Computer Systems Company Limited
+https://blue777.synology.me:9090,222.64.20.96,9090,https,,blue777.synology.me,CN,Shanghai,https://blue777.synology.me:9090,China Telecom Group
+123.116.126.209:9090,123.116.126.209,9090,http,,,CN,Beijing,http://123.116.126.209:9090,China Unicom Beijing Province Network
+124.132.68.224:9090,124.132.68.224,9090,http,,,CN,Jining,http://124.132.68.224:9090,CHINA UNICOM China169 Backbone
+180.109.222.60:9090,180.109.222.60,9090,http,,,CN,Nanjing,http://180.109.222.60:9090,Chinanet
+101.224.160.168:9090,101.224.160.168,9090,http,,,CN,Shanghai,http://101.224.160.168:9090,China Telecom Group
+139.227.137.149:9090,139.227.137.149,9090,http,,,CN,Shanghai,http://139.227.137.149:9090,China Unicom Shanghai network
+180.154.52.90:9090,180.154.52.90,9090,http,,,CN,Shanghai,http://180.154.52.90:9090,China Telecom Group
+175.4.64.67:9090,175.4.64.67,9090,http,,,CN,Zhuzhou,http://175.4.64.67:9090,Chinanet
+112.64.108.24:9090,112.64.108.24,9090,http,,,CN,Shanghai,http://112.64.108.24:9090,China Unicom Shanghai network
+120.46.36.32:9090,120.46.36.32,9090,http,,,CN,Guangzhou,http://120.46.36.32:9090,Huawei Cloud Service data center
+115.220.169.168:9090,115.220.169.168,9090,http,,,CN,Ningbo,http://115.220.169.168:9090,Chinanet
+182.92.251.142:9090,182.92.251.142,9090,http,,,CN,Beijing,http://182.92.251.142:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+112.123.143.153:9090,112.123.143.153,9090,http,,,CN,Chuzhou,http://112.123.143.153:9090,CHINA UNICOM China169 Backbone
+112.112.119.189:9090,112.112.119.189,9090,http,,,CN,Kunming,http://112.112.119.189:9090,Chinanet
+124.221.199.169:9090,124.221.199.169,9090,http,,,CN,Beijing,http://124.221.199.169:9090,Shenzhen Tencent Computer Systems Company Limited
+124.222.24.56:9090,124.222.24.56,9090,http,,,CN,Beijing,http://124.222.24.56:9090,Shenzhen Tencent Computer Systems Company Limited
+117.30.32.232:9090,117.30.32.232,9090,http,,,CN,Xiamen,http://117.30.32.232:9090,Chinanet
+219.140.41.3:9090,219.140.41.3,9090,http,,,CN,Wuhan,http://219.140.41.3:9090,Chinanet
+119.129.236.120:9090,119.129.236.120,9090,http,,,CN,Guangzhou,http://119.129.236.120:9090,Chinanet
+218.1.210.113:9090,218.1.210.113,9090,http,,,CN,Shanghai,http://218.1.210.113:9090,China Telecom Group
+58.50.132.129:9090,58.50.132.129,9090,http,,,CN,Yichang,http://58.50.132.129:9090,Chinanet
+27.41.241.224:9092,27.41.241.224,9092,http,,,CN,Shantou,http://27.41.241.224:9092,China Unicom IP network China169 Guangdong province
+36.22.235.97:9090,36.22.235.97,9090,http,,,CN,Hangzhou,http://36.22.235.97:9090,Chinanet
+118.125.5.216:9090,118.125.5.216,9090,http,,,CN,Luzhou,http://118.125.5.216:9090,CHINATELECOM SiChuan province Luzhou 5G network
+1.197.141.117:9090,1.197.141.117,9090,http,,,CN,Xuchang,http://1.197.141.117:9090,Chinanet
+180.102.25.115:9100,180.102.25.115,9100,http,,,CN,Nanjing,http://180.102.25.115:9100,CHINANET Nanjing Jishan IDC network
+27.17.252.200:9090,27.17.252.200,9090,http,,,CN,Wuhan,http://27.17.252.200:9090,Chinanet
+218.1.185.41:9090,218.1.185.41,9090,http,,,CN,Shanghai,http://218.1.185.41:9090,China Telecom Group
+119.4.54.91:9090,119.4.54.91,9090,http,,,CN,Mianyang,http://119.4.54.91:9090,CHINA UNICOM China169 Backbone
+115.227.175.82:9090,115.227.175.82,9090,http,,,CN,Jiaxing,http://115.227.175.82:9090,Chinanet
+101.228.124.136:9090,101.228.124.136,9090,http,,,CN,Shanghai,http://101.228.124.136:9090,China Telecom Group
+122.51.6.138:9090,122.51.6.138,9090,http,,,CN,Beijing,http://122.51.6.138:9090,Shenzhen Tencent Computer Systems Company Limited
+58.251.255.54:9090,58.251.255.54,9090,http,,,CN,Shenzhen,http://58.251.255.54:9090,China Unicom Shenzen network
+113.87.174.14:9090,113.87.174.14,9090,http,,,CN,Shenzhen,http://113.87.174.14:9090,Chinanet
+49.83.14.7:9090,49.83.14.7,9090,http,,,CN,Yancheng,http://49.83.14.7:9090,Chinanet
+222.185.64.223:9090,222.185.64.223,9090,http,,,CN,Changzhou,http://222.185.64.223:9090,Chinanet
+111.230.52.60:9090,111.230.52.60,9090,http,,,CN,Beijing,http://111.230.52.60:9090,Shenzhen Tencent Computer Systems Company Limited
+113.67.176.79:9090,113.67.176.79,9090,http,,,CN,Guangzhou,http://113.67.176.79:9090,Chinanet
+120.77.238.133:9090,120.77.238.133,9090,http,,,CN,Hangzhou,http://120.77.238.133:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+59.172.49.69:9090,59.172.49.69,9090,http,,,CN,Wuhan,http://59.172.49.69:9090,Chinanet
+110.83.179.182:9090,110.83.179.182,9090,http,,,CN,Ningde,http://110.83.179.182:9090,Chinanet
+60.204.171.4:9090,60.204.171.4,9090,http,,,CN,Guangzhou,http://60.204.171.4:9090,Huawei Cloud Service data center
+27.18.170.97:9090,27.18.170.97,9090,http,,,CN,Wuhan,http://27.18.170.97:9090,Chinanet
+180.108.118.245:9090,180.108.118.245,9090,http,,,CN,Suzhou,http://180.108.118.245:9090,Chinanet
+118.250.39.33:9090,118.250.39.33,9090,http,,,CN,Changsha,http://118.250.39.33:9090,Chinanet
+https://222.64.20.96:9090,222.64.20.96,9090,https,,,CN,Shanghai,https://222.64.20.96:9090,China Telecom Group
+221.216.142.88:9090,221.216.142.88,9090,http,,,CN,Beijing,http://221.216.142.88:9090,China Unicom Beijing Province Network
+210.75.252.56:9090,210.75.252.56,9090,http,,,CN,Beijing,http://210.75.252.56:9090,Computer Network Information Center
+120.77.8.71:9090,120.77.8.71,9090,http,,,CN,Hangzhou,http://120.77.8.71:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+116.21.126.166:9090,116.21.126.166,9090,http,,,CN,Guangzhou,http://116.21.126.166:9090,Chinanet
+222.94.131.138:9090,222.94.131.138,9090,http,,,CN,Nanjing,http://222.94.131.138:9090,Chinanet
+47.120.56.212:9090,47.120.56.212,9090,http,,,CN,Shenzhen,http://47.120.56.212:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+61.146.188.102:9090,61.146.188.102,9090,http,,,CN,Meizhou,http://61.146.188.102:9090,Chinanet
+183.158.157.153:9090,183.158.157.153,9090,http,,,CN,Hangzhou,http://183.158.157.153:9090,Chinanet
+112.10.214.47:9090,112.10.214.47,9090,http,,,CN,Hangzhou,http://112.10.214.47:9090,China Mobile communications corporation
+180.172.66.40:9090,180.172.66.40,9090,http,,,CN,Shanghai,http://180.172.66.40:9090,China Telecom Group
+183.241.255.86:9090,183.241.255.86,9090,http,,,CN,Beijing,http://183.241.255.86:9090,China Mobile Communicaitons Corporation
+219.140.140.78:9090,219.140.140.78,9090,http,,,CN,Wuhan,http://219.140.140.78:9090,Chinanet
+112.193.168.126:9090,112.193.168.126,9090,http,,,CN,Chengdu,http://112.193.168.126:9090,CHINA UNICOM China169 Backbone
+124.90.30.6:9090,124.90.30.6,9090,http,,,CN,Hangzhou,http://124.90.30.6:9090,CHINA UNICOM China169 Backbone
+124.71.131.172:9090,124.71.131.172,9090,http,,,CN,Shanghai,http://124.71.131.172:9090,Huawei Cloud Service data center
+180.112.250.25:9090,180.112.250.25,9090,http,,,CN,Wuxi,http://180.112.250.25:9090,Chinanet
+175.12.168.5:9090,175.12.168.5,9090,http,,,CN,Yiyang,http://175.12.168.5:9090,Chinanet
+39.184.16.18:9090,39.184.16.18,9090,http,,,CN,Taizhou,http://39.184.16.18:9090,China Mobile communications corporation
+114.232.247.173:9090,114.232.247.173,9090,http,,,CN,Nantong,http://114.232.247.173:9090,Chinanet
+47.100.220.161:9090,47.100.220.161,9090,http,,,CN,Shanghai,http://47.100.220.161:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+49.65.102.237:9100,49.65.102.237,9100,http,,,CN,Nanjing,http://49.65.102.237:9100,CHINANET Nanjing Jishan IDC network
+123.185.223.49:9090,123.185.223.49,9090,http,,,CN,Dalian,http://123.185.223.49:9090,CHINANET Liaoning province Dalian MAN network
+124.221.75.170:9090,124.221.75.170,9090,http,,,CN,Beijing,http://124.221.75.170:9090,Shenzhen Tencent Computer Systems Company Limited
+42.239.113.77:9090,42.239.113.77,9090,http,,,CN,Shangqiu,http://42.239.113.77:9090,CHINA UNICOM China169 Backbone
+47.101.175.60:9090,47.101.175.60,9090,http,,,CN,Hangzhou,http://47.101.175.60:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+222.65.60.170:9090,222.65.60.170,9090,http,,,CN,Shanghai,http://222.65.60.170:9090,China Telecom Group
+183.159.236.31:9090,183.159.236.31,9090,http,,,CN,Hangzhou,http://183.159.236.31:9090,Chinanet
+121.13.54.113:9090,121.13.54.113,9090,http,,,CN,Dongguan,http://121.13.54.113:9090,Chinanet
+125.126.55.149:9090,125.126.55.149,9090,http,,,CN,Taizhou,http://125.126.55.149:9090,Chinanet
+182.32.156.32:9090,182.32.156.32,9090,http,,,CN,Dezhou,http://182.32.156.32:9090,Chinanet
+47.92.4.208:9090,47.92.4.208,9090,http,,,CN,Beijing,http://47.92.4.208:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+123.144.233.97:9090,123.144.233.97,9090,http,,,CN,Chongqing,http://123.144.233.97:9090,CHINA UNICOM China169 Backbone
+14.103.135.51:9090,14.103.135.51,9090,http,,,CN,Beijing,http://14.103.135.51:9090,
+223.215.57.13:9090,223.215.57.13,9090,http,,,CN,Chuzhou,http://223.215.57.13:9090,Chinanet
+180.173.142.86:9090,180.173.142.86,9090,http,,,CN,Shanghai,http://180.173.142.86:9090,China Telecom Group
+117.30.162.147:9090,117.30.162.147,9090,http,,,CN,Xiamen,http://117.30.162.147:9090,Chinanet
+114.245.110.216:9090,114.245.110.216,9090,http,,,CN,Beijing,http://114.245.110.216:9090,China Unicom Beijing Province Network
+27.18.137.148:9090,27.18.137.148,9090,http,,,CN,Wuhan,http://27.18.137.148:9090,Chinanet
+120.41.98.155:9090,120.41.98.155,9090,http,,,CN,Xiamen,http://120.41.98.155:9090,Chinanet
+123.169.50.81:9090,123.169.50.81,9090,http,,,CN,Yantai,http://123.169.50.81:9090,Chinanet
+153.3.54.200:9090,153.3.54.200,9090,http,,,CN,Nanjing,http://153.3.54.200:9090,CHINA UNICOM China169 Backbone
+124.64.220.67:9090,124.64.220.67,9090,http,,,CN,Beijing,http://124.64.220.67:9090,China Unicom Beijing Province Network
+211.86.151.176:9090,211.86.151.176,9090,http,,,CN,Nanjing,http://211.86.151.176:9090,China Education and Research Network Center
+8.140.37.150:9090,8.140.37.150,9090,http,,,CN,Beijing,http://8.140.37.150:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+119.119.116.42:9090,119.119.116.42,9090,http,,,CN,Shenyang,http://119.119.116.42:9090,CHINA UNICOM China169 Backbone
+124.126.186.23:9090,124.126.186.23,9090,http,,,CN,Beijing,http://124.126.186.23:9090,China Networks Inter-Exchange
+111.196.188.249:9090,111.196.188.249,9090,http,,,CN,Beijing,http://111.196.188.249:9090,China Unicom Beijing Province Network
+3.112.251.80:9090,3.112.251.80,9090,http,,,JP,Tokyo,http://3.112.251.80:9090,AMAZON-02
+123.120.2.106:9090,123.120.2.106,9090,http,,,CN,Beijing,http://123.120.2.106:9090,China Unicom Beijing Province Network
+101.132.248.247:9090,101.132.248.247,9090,http,,,CN,Shanghai,http://101.132.248.247:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+115.197.190.2:9090,115.197.190.2,9090,http,,,CN,Hangzhou,http://115.197.190.2:9090,Chinanet
+47.101.216.233:9090,47.101.216.233,9090,http,,,CN,Hangzhou,http://47.101.216.233:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+60.182.35.48:9090,60.182.35.48,9090,http,,,CN,Jinhua,http://60.182.35.48:9090,Chinanet
+222.70.83.30:9090,222.70.83.30,9090,http,,,CN,Shanghai,http://222.70.83.30:9090,China Telecom Group
+113.116.18.238:9090,113.116.18.238,9090,http,,,CN,Shenzhen,http://113.116.18.238:9090,Chinanet
+111.230.251.89:9090,111.230.251.89,9090,http,,,CN,Beijing,http://111.230.251.89:9090,Shenzhen Tencent Computer Systems Company Limited
+210.45.70.131:9090,210.45.70.131,9090,http,,,CN,Beijing,http://210.45.70.131:9090,China Education and Research Network Center
+61.173.147.83:9090,61.173.147.83,9090,http,,,CN,Shanghai,http://61.173.147.83:9090,China Telecom Group
+47.101.138.97:9090,47.101.138.97,9090,http,,,CN,Hangzhou,http://47.101.138.97:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+183.184.60.242:9090,183.184.60.242,9090,http,,,CN,Taiyuan,http://183.184.60.242:9090,CHINA UNICOM China169 Backbone
+117.68.197.61:9090,117.68.197.61,9090,http,,,CN,Hefei,http://117.68.197.61:9090,Chinanet
+115.205.76.170:9090,115.205.76.170,9090,http,,,CN,Hangzhou,http://115.205.76.170:9090,Chinanet
+58.38.96.106:9090,58.38.96.106,9090,http,,,CN,Shanghai,http://58.38.96.106:9090,China Telecom Group
+123.60.157.17:9090,123.60.157.17,9090,http,,,CN,Guangzhou,http://123.60.157.17:9090,Huawei Cloud Service data center
+60.26.2.81:9090,60.26.2.81,9090,http,,,CN,Tianjin,http://60.26.2.81:9090,CHINA UNICOM China169 Backbone
+124.230.98.214:9090,124.230.98.214,9090,http,,,CN,Shaoyang,http://124.230.98.214:9090,Chinanet
+101.6.42.229:9090,101.6.42.229,9090,http,,,CN,Beijing,http://101.6.42.229:9090,China Education and Research Network Center
+47.120.75.231:9090,47.120.75.231,9090,http,,,CN,Shenzhen,http://47.120.75.231:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+14.134.155.211:9090,14.134.155.211,9090,http,,,CN,Wuzhong,http://14.134.155.211:9090,Chinanet
+39.68.79.171:9090,39.68.79.171,9090,http,,,CN,Linyi,http://39.68.79.171:9090,CHINA UNICOM China169 Backbone
+8.133.195.34:9090,8.133.195.34,9090,http,,,CN,Hangzhou,http://8.133.195.34:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+222.195.92.204:9090,222.195.92.204,9090,http,,,CN,Nanjing,http://222.195.92.204:9090,China Education and Research Network Center
+123.14.59.223:9090,123.14.59.223,9090,http,,,CN,Zhengzhou,http://123.14.59.223:9090,CHINA UNICOM China169 Backbone
+123.121.82.207:9090,123.121.82.207,9090,http,,,CN,Beijing,http://123.121.82.207:9090,China Unicom Beijing Province Network
+47.102.198.129:9090,47.102.198.129,9090,http,,,CN,Hangzhou,http://47.102.198.129:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+202.112.51.129:9090,202.112.51.129,9090,http,,,CN,Beijing,http://202.112.51.129:9090,CERNET2 IX at Tsinghua University
+221.14.40.205:9090,221.14.40.205,9090,http,,,CN,Zhengzhou,http://221.14.40.205:9090,CHINA UNICOM China169 Backbone
+47.121.182.18:9090,47.121.182.18,9090,http,,,CN,Hangzhou,http://47.121.182.18:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+183.154.33.142:9090,183.154.33.142,9090,http,,,CN,Jinhua,http://183.154.33.142:9090,Chinanet
+125.121.168.66:9090,125.121.168.66,9090,http,,,CN,Hangzhou,http://125.121.168.66:9090,Chinanet
+141.147.182.252:9090,141.147.182.252,9090,http,,,JP,Tokyo,http://141.147.182.252:9090,ORACLE-BMC-31898
+49.85.189.252:9090,49.85.189.252,9090,http,,,CN,Taizhou,http://49.85.189.252:9090,Chinanet
+61.173.144.120:9090,61.173.144.120,9090,http,,,CN,Shanghai,http://61.173.144.120:9090,China Telecom Group
+202.38.75.133:9090,202.38.75.133,9090,http,,,CN,Hefei,http://202.38.75.133:9090,China Education and Research Network Center
+218.20.124.38:9090,218.20.124.38,9090,http,,,CN,Guangzhou,http://218.20.124.38:9090,Chinanet
+220.249.168.165:9090,220.249.168.165,9090,http,,,CN,Fuzhou,http://220.249.168.165:9090,CHINA UNICOM China169 Backbone
+14.153.209.165:9090,14.153.209.165,9090,http,,,CN,Shenzhen,http://14.153.209.165:9090,Chinanet
+101.68.24.98:9090,101.68.24.98,9090,http,,,CN,Hangzhou,http://101.68.24.98:9090,CHINA UNICOM China169 Backbone
+125.33.82.54:9090,125.33.82.54,9090,http,,,CN,Beijing,http://125.33.82.54:9090,China Unicom Beijing Province Network
+115.49.113.181:9090,115.49.113.181,9090,http,,,CN,Nanyang,http://115.49.113.181:9090,CHINA UNICOM China169 Backbone
+59.61.114.116:9090,59.61.114.116,9090,http,,,CN,Fuqing,http://59.61.114.116:9090,Chinanet
+110.177.183.187:9090,110.177.183.187,9090,http,,,CN,Taiyuan,http://110.177.183.187:9090,Chinanet
+61.165.178.234:9090,61.165.178.234,9090,http,,,CN,Shanghai,http://61.165.178.234:9090,China Telecom Group
+8.141.7.186:9090,8.141.7.186,9090,http,,,CN,Hangzhou,http://8.141.7.186:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+139.159.155.69:9090,139.159.155.69,9090,http,,,CN,Guangzhou,http://139.159.155.69:9090,Huawei Cloud Service data center
+115.213.61.176:9090,115.213.61.176,9090,http,,,CN,Ningbo,http://115.213.61.176:9090,Chinanet
+118.31.20.186:9090,118.31.20.186,9090,http,,,CN,Hangzhou,http://118.31.20.186:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+43.136.113.23:9090,43.136.113.23,9090,http,,,CN,Beijing,http://43.136.113.23:9090,Shenzhen Tencent Computer Systems Company Limited
+118.31.244.188:9090,118.31.244.188,9090,http,,,CN,Hangzhou,http://118.31.244.188:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+101.200.84.19:9981,101.200.84.19,9981,http,,,CN,Beijing,http://101.200.84.19:9981,"Hangzhou Alibaba Advertising Co.,Ltd."
+220.166.251.26:9090,220.166.251.26,9090,http,,,CN,Chengdu,http://220.166.251.26:9090,Chinanet
+218.1.140.177:9090,218.1.140.177,9090,http,,,CN,Shanghai,http://218.1.140.177:9090,China Telecom Group
+122.51.236.67:9090,122.51.236.67,9090,http,,,CN,Beijing,http://122.51.236.67:9090,Shenzhen Tencent Computer Systems Company Limited
+111.163.91.181:9090,111.163.91.181,9090,http,,,CN,Tianjin,http://111.163.91.181:9090,CHINA UNICOM China169 Backbone
+39.100.102.209:9090,39.100.102.209,9090,http,,,CN,Hangzhou,http://39.100.102.209:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+116.231.169.99:9090,116.231.169.99,9090,http,,,CN,Shanghai,http://116.231.169.99:9090,China Telecom Group
+36.33.174.172:9090,36.33.174.172,9090,http,,,CN,Ma'anshan,http://36.33.174.172:9090,CHINA UNICOM China169 Backbone
+101.42.233.244:9090,101.42.233.244,9090,http,,,CN,Hangzhou,http://101.42.233.244:9090,Shenzhen Tencent Computer Systems Company Limited
+202.112.238.86:9090,202.112.238.86,9090,http,,,CN,Beijing,http://202.112.238.86:9090,China Education and Research Network Center
+58.55.149.20:9090,58.55.149.20,9090,http,,,CN,Ezhou,http://58.55.149.20:9090,Chinanet
+120.82.236.48:9090,120.82.236.48,9090,http,,,CN,Foshan,http://120.82.236.48:9090,China Unicom IP network China169 Guangdong province
+125.37.160.225:9090,125.37.160.225,9090,http,,,CN,Tianjin,http://125.37.160.225:9090,CHINA UNICOM China169 Backbone
+61.160.221.113:9090,61.160.221.113,9090,http,,,CN,Changzhou,http://61.160.221.113:9090,Chinanet
+175.10.59.20:9090,175.10.59.20,9090,http,,,CN,Changsha,http://175.10.59.20:9090,Chinanet
+122.194.155.28:9090,122.194.155.28,9090,http,,,CN,Xuzhou,http://122.194.155.28:9090,CHINA UNICOM China169 Backbone
+221.220.174.186:9090,221.220.174.186,9090,http,,,CN,Beijing,http://221.220.174.186:9090,China Unicom Beijing Province Network
+125.92.100.121:9090,125.92.100.121,9090,http,,,CN,Jiangmen,http://125.92.100.121:9090,Chinanet
+113.119.0.30:9090,113.119.0.30,9090,http,,,CN,Guangzhou,http://113.119.0.30:9090,Chinanet
+p.ct106.cc:9999,112.117.186.154,9999,http,,ct106.cc,CN,Kunming,http://p.ct106.cc:9999,Chinanet
+180.102.25.115:9091,180.102.25.115,9091,http,,,CN,Nanjing,http://180.102.25.115:9091,CHINANET Nanjing Jishan IDC network
+legalaassistant.com,49.234.47.94,80,http,,legalaassistant.com,CN,Beijing,http://legalaassistant.com,Shenzhen Tencent Computer Systems Company Limited
+https://legalaassistant.com,49.234.47.94,443,https,,legalaassistant.com,CN,Beijing,https://legalaassistant.com,Shenzhen Tencent Computer Systems Company Limited
+https://49.234.47.94,49.234.47.94,443,https,,,CN,Beijing,https://49.234.47.94,Shenzhen Tencent Computer Systems Company Limited
+222.169.155.86:9191,222.169.155.86,9191,http,,,CN,Baishan,http://222.169.155.86:9191,Chinanet
+36.24.249.78:9090,36.24.249.78,9090,http,,,CN,Hangzhou,http://36.24.249.78:9090,Chinanet
+b.16961.top:9090,185.248.143.243,9090,http,,16961.top,DE,Waldbrunn,http://b.16961.top:9090,IP-Projects GmbH & Co. KG
+27.153.73.20:9090,27.153.73.20,9090,http,,,CN,Quanzhou,http://27.153.73.20:9090,Chinanet
+171.214.211.76:9091,171.214.211.76,9091,http,,,CN,Chengdu,http://171.214.211.76:9091,Chinanet
+27.184.23.181:9090,27.184.23.181,9090,http,,,CN,Shijiazhuang,http://27.184.23.181:9090,Chinanet
+36.212.226.234:9990,36.212.226.234,9990,http,,,CN,Shijiazhuang,http://36.212.226.234:9990,China TieTong Telecommunications Corporation
+180.102.26.44:9099,180.102.26.44,9099,http,,,CN,Nanjing,http://180.102.26.44:9099,CHINANET Nanjing Jishan IDC network
+180.116.231.70:1901,180.116.231.70,1901,http,,,CN,Changzhou,http://180.116.231.70:1901,Chinanet
+156.225.27.207:17774,156.225.27.207,17774,http,,,CN,Hong Kong,http://156.225.27.207:17774,MOACK.Co.LTD
+https://clash.blueorchid.top,158.247.226.241,443,https,,blueorchid.top,KR,Seoul,https://clash.blueorchid.top,AS-CHOOPA
+153.99.57.62:8890,153.99.57.62,8890,http,,,CN,Huai'an,http://153.99.57.62:8890,CHINA UNICOM China169 Backbone
+b.zt.xslink.cn:9090,8.134.18.139,9090,http,,xslink.cn,CN,Guangzhou,http://b.zt.xslink.cn:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+61.133.125.37,61.133.125.37,80,http,,,CN,Jinan,http://61.133.125.37,CHINA UNICOM China169 Backbone
+https://sixone.synology.me:9090,114.253.43.248,9090,https,,sixone.synology.me,CN,Beijing,https://sixone.synology.me:9090,China Unicom Beijing Province Network
+49.65.176.117:85,49.65.176.117,85,http,,,CN,Nanjing,http://49.65.176.117:85,Chinanet
+116.198.230.70:9090,116.198.230.70,9090,http,,,CN,Beijing,http://116.198.230.70:9090,CHINATELECOM Jiangsu Suqian IDC network
+116.198.217.198:9090,116.198.217.198,9090,http,,,CN,Beijing,http://116.198.217.198:9090,CHINATELECOM Jiangsu Suqian IDC network
+18.132.67.249:8887,18.132.67.249,8887,http,,,GB,London,http://18.132.67.249:8887,AMAZON-02
+121.43.238.180:9090,121.43.238.180,9090,http,,,CN,Hangzhou,http://121.43.238.180:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+123.57.10.186:9090,123.57.10.186,9090,http,,,CN,Hangzhou,http://123.57.10.186:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+125.109.60.243:9090,125.109.60.243,9090,http,,,CN,Wenzhou,http://125.109.60.243:9090,Chinanet
+121.40.149.132:9090,121.40.149.132,9090,http,,,CN,Hangzhou,http://121.40.149.132:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+27.41.241.224:9093,27.41.241.224,9093,http,,,CN,Shantou,http://27.41.241.224:9093,China Unicom IP network China169 Guangdong province
+124.223.167.5:9090,124.223.167.5,9090,http,,,CN,Beijing,http://124.223.167.5:9090,Shenzhen Tencent Computer Systems Company Limited
+106.14.59.129:9898,106.14.59.129,9898,http,,,CN,Shanghai,http://106.14.59.129:9898,"Hangzhou Alibaba Advertising Co.,Ltd."
+49.83.254.87:9090,49.83.254.87,9090,http,,,CN,Yancheng,http://49.83.254.87:9090,Chinanet
+49.85.78.239:9090,49.85.78.239,9090,http,,,CN,Taizhou,http://49.85.78.239:9090,Chinanet
+121.239.182.69:9999,121.239.182.69,9999,http,,,CN,Suzhou,http://121.239.182.69:9999,Chinanet
+175.178.47.43:9090,175.178.47.43,9090,http,,,CN,Beijing,http://175.178.47.43:9090,Shenzhen Tencent Computer Systems Company Limited
+43.142.71.28:9999,43.142.71.28,9999,http,,,CN,Beijing,http://43.142.71.28:9999,Shenzhen Tencent Computer Systems Company Limited
+clashui.skyhawk.top,16.162.112.192,80,http,,skyhawk.top,CN,Hong Kong,http://clashui.skyhawk.top,AMAZON-02
+180.102.25.115:9093,180.102.25.115,9093,http,,,CN,Nanjing,http://180.102.25.115:9093,CHINANET Nanjing Jishan IDC network
+124.134.85.57:9999,124.134.85.57,9999,http,,,CN,Zibo,http://124.134.85.57:9999,CHINA UNICOM China169 Backbone
+124.134.85.66:9999,124.134.85.66,9999,http,,,CN,Zibo,http://124.134.85.66:9999,CHINA UNICOM China169 Backbone
+60.168.53.149:9090,60.168.53.149,9090,http,,,CN,Hefei,http://60.168.53.149:9090,Chinanet
+124.134.85.53:9999,124.134.85.53,9999,http,,,CN,Zibo,http://124.134.85.53:9999,CHINA UNICOM China169 Backbone
+61.140.234.6:9090,61.140.234.6,9090,http,,,CN,Guangzhou,http://61.140.234.6:9090,Chinanet
+16961.top:9090,185.248.143.243,9090,http,,16961.top,DE,Waldbrunn,http://16961.top:9090,IP-Projects GmbH & Co. KG
+a.16961.top:9090,185.248.143.243,9090,http,,16961.top,DE,Waldbrunn,http://a.16961.top:9090,IP-Projects GmbH & Co. KG
+220.191.28.148:9999,220.191.28.148,9999,http,,,CN,Hangzhou,http://220.191.28.148:9999,Chinanet
+101.37.232.153:9999,101.37.232.153,9999,http,,,CN,Hangzhou,http://101.37.232.153:9999,"Hangzhou Alibaba Advertising Co.,Ltd."
+117.72.67.19,117.72.67.19,80,http,,,CN,Beijing,http://117.72.67.19,
+https://clashui.skyhawk.top,16.162.112.192,443,https,,skyhawk.top,CN,Hong Kong,https://clashui.skyhawk.top,AMAZON-02
+49.232.115.247:9999,49.232.115.247,9999,http,,,CN,Beijing,http://49.232.115.247:9999,Shenzhen Tencent Computer Systems Company Limited
+27.14.123.99:9999,27.14.123.99,9999,http,,,CN,Chongqing,http://27.14.123.99:9999,CHINA UNICOM China169 Backbone
+1.202.98.60:9999,1.202.98.60,9999,http,,,CN,Beijing,http://1.202.98.60:9999,China Networks Inter-Exchange
+47.94.19.22:9999,47.94.19.22,9999,http,,,CN,Hangzhou,http://47.94.19.22:9999,"Hangzhou Alibaba Advertising Co.,Ltd."
+47.109.22.203:9999,47.109.22.203,9999,http,,,CN,Hangzhou,http://47.109.22.203:9999,"Hangzhou Alibaba Advertising Co.,Ltd."
+125.125.194.113:9999,125.125.194.113,9999,http,,,CN,Huzhou,http://125.125.194.113:9999,Chinanet
+51.79.255.217,51.79.255.217,80,http,,,SG,Singapore,http://51.79.255.217,OVH SAS
+45.78.60.188:9191,45.78.60.188,9191,http,,,JP,Osaka,http://45.78.60.188:9191,IT7NET
+39.98.233.250:6379,39.98.233.250,6379,http,,,CN,Hangzhou,http://39.98.233.250:6379,"Hangzhou Alibaba Advertising Co.,Ltd."
+180.102.16.183:9092,180.102.16.183,9092,http,,,CN,Nanjing,http://180.102.16.183:9092,CHINANET Nanjing Jishan IDC network
+47.119.140.65:9999,47.119.140.65,9999,http,,,CN,Shenzhen,http://47.119.140.65:9999,"Hangzhou Alibaba Advertising Co.,Ltd."
+49.65.101.160:9092,49.65.101.160,9092,http,,,CN,Nanjing,http://49.65.101.160:9092,CHINANET Nanjing Jishan IDC network
+101.204.221.21:9999,101.204.221.21,9999,http,,,CN,Chengdu,http://101.204.221.21:9999,CHINA UNICOM China169 Backbone
+58dtf.games:9090,171.115.223.148,9090,http,,58dtf.games,CN,Shiyan,http://58dtf.games:9090,Chinanet
+111.224.192.201:9090,111.224.192.201,9090,http,,,CN,Shijiazhuang,http://111.224.192.201:9090,Chinanet
+119.167.165.182:9990,119.167.165.182,9990,http,,,CN,Qingdao,http://119.167.165.182:9990,CHINA UNICOM China169 Backbone
+114.218.130.58:9090,114.218.130.58,9090,http,,,CN,Suzhou,http://114.218.130.58:9090,Chinanet
+lsyoung-new.synology.me:9090,115.197.183.12,9090,http,,lsyoung-new.synology.me,CN,Hangzhou,http://lsyoung-new.synology.me:9090,Chinanet
+118.113.139.140:9091,118.113.139.140,9091,http,,,CN,Chengdu,http://118.113.139.140:9091,Chinanet
+121.40.180.112:9090,121.40.180.112,9090,http,,,CN,Hangzhou,http://121.40.180.112:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+125.122.223.25:8090,125.122.223.25,8090,http,,,CN,Hangzhou,http://125.122.223.25:8090,Chinanet
+121.40.18.172:9090,121.40.18.172,9090,http,,,CN,Hangzhou,http://121.40.18.172:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+sunjor.ddns.net:1901,121.231.72.40,1901,http,,sunjor.ddns.net,CN,Changzhou,http://sunjor.ddns.net:1901,Chinanet
+chat.sgsjy.cn:9090,39.106.128.54,9090,http,,sgsjy.cn,CN,Hangzhou,http://chat.sgsjy.cn:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+118.248.224.234:7070,118.248.224.234,7070,http,,,CN,Shaoyang,http://118.248.224.234:7070,Chinanet
+119.98.206.99:6002,119.98.206.99,6002,http,,,CN,Wuhan,http://119.98.206.99:6002,Chinanet
+47.100.86.46:6001,47.100.86.46,6001,http,,,CN,Shanghai,http://47.100.86.46:6001,"Hangzhou Alibaba Advertising Co.,Ltd."
+222.67.67.197:19999,222.67.67.197,19999,http,,,CN,Shanghai,http://222.67.67.197:19999,China Telecom Group
+123.57.204.128:8002,123.57.204.128,8002,http,,,CN,Hangzhou,http://123.57.204.128:8002,"Hangzhou Alibaba Advertising Co.,Ltd."
+124.222.128.207:9090,124.222.128.207,9090,http,,,CN,Beijing,http://124.222.128.207:9090,Shenzhen Tencent Computer Systems Company Limited
+rich.beelink.top:9090,182.138.151.55,9090,http,,beelink.top,CN,Chengdu,http://rich.beelink.top:9090,Chinanet
+180.102.20.235:9092,180.102.20.235,9092,http,,,CN,Nanjing,http://180.102.20.235:9092,CHINANET Nanjing Jishan IDC network
+47.99.102.109:9091,47.99.102.109,9091,http,,,CN,Hangzhou,http://47.99.102.109:9091,"Hangzhou Alibaba Advertising Co.,Ltd."
+121.40.69.40:7079,121.40.69.40,7079,http,,,CN,Hangzhou,http://121.40.69.40:7079,"Hangzhou Alibaba Advertising Co.,Ltd."
+139.159.203.131:9090,139.159.203.131,9090,http,,,CN,Guangzhou,http://139.159.203.131:9090,Huawei Cloud Service data center
+166.111.249.127:9990,166.111.249.127,9990,http,,,CN,Beijing,http://166.111.249.127:9990,China Education and Research Network Center
+221.14.157.86:8020,221.14.157.86,8020,http,,,CN,Xuchang,http://221.14.157.86:8020,CHINA UNICOM China169 Backbone
+https://8.218.133.87,8.218.133.87,443,https,,,CN,Hong Kong,https://8.218.133.87,"Alibaba US Technology Co., Ltd."
+121.40.51.206:5050,121.40.51.206,5050,http,,,CN,Hangzhou,http://121.40.51.206:5050,"Hangzhou Alibaba Advertising Co.,Ltd."
+183.147.134.151:9090,183.147.134.151,9090,http,,,CN,Jinhua,http://183.147.134.151:9090,Chinanet
+36.134.41.195:9090,36.134.41.195,9090,http,,,CN,Beijing,http://36.134.41.195:9090,"China Mobile Communications Group Co., Ltd."
+123.56.245.85:9090,123.56.245.85,9090,http,,,CN,Beijing,http://123.56.245.85:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+125.37.162.183:9090,125.37.162.183,9090,http,,,CN,Tianjin,http://125.37.162.183:9090,CHINA UNICOM China169 Backbone
+140.207.201.34:9090,140.207.201.34,9090,http,,,CN,Shanghai,http://140.207.201.34:9090,China Unicom Shanghai network
+47.98.132.36:9090,47.98.132.36,9090,http,,,CN,Hangzhou,http://47.98.132.36:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+124.220.26.132:9090,124.220.26.132,9090,http,,,CN,Beijing,http://124.220.26.132:9090,Shenzhen Tencent Computer Systems Company Limited
+174.95.168.97:9090,174.95.168.97,9090,http,,,CA,Toronto,http://174.95.168.97:9090,BACOM
+210.75.240.137:9090,210.75.240.137,9090,http,,,CN,Beijing,http://210.75.240.137:9090,Computer Network Information Center
+47.111.97.108:9090,47.111.97.108,9090,http,,,CN,Hangzhou,http://47.111.97.108:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+42.193.17.157:9090,42.193.17.157,9090,http,,,CN,Beijing,http://42.193.17.157:9090,Shenzhen Tencent Computer Systems Company Limited
+116.26.122.161:9090,116.26.122.161,9090,http,,,CN,Shantou,http://116.26.122.161:9090,Chinanet
+47.96.110.10:9090,47.96.110.10,9090,http,,,CN,Hangzhou,http://47.96.110.10:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+132.226.168.60:9090,132.226.168.60,9090,http,,,KR,Seoul,http://132.226.168.60:9090,ORACLE-BMC-31898
+123.115.212.30:9090,123.115.212.30,9090,http,,,CN,Beijing,http://123.115.212.30:9090,China Unicom Beijing Province Network
+81.69.228.131:9090,81.69.228.131,9090,http,,,CN,Beijing,http://81.69.228.131:9090,Shenzhen Tencent Computer Systems Company Limited
+182.130.208.50:9090,182.130.208.50,9090,http,,,CN,Luzhou,http://182.130.208.50:9090,CHINATELECOM SiChuan province Luzhou 5G network
+113.67.179.25:9090,113.67.179.25,9090,http,,,CN,Guangzhou,http://113.67.179.25:9090,Chinanet
+175.161.161.161:9090,175.161.161.161,9090,http,,,CN,Shenyang,http://175.161.161.161:9090,CHINA UNICOM China169 Backbone
+222.213.124.134:9090,222.213.124.134,9090,http,,,CN,Deyang,http://222.213.124.134:9090,Chinanet
+182.138.151.55:9090,182.138.151.55,9090,http,,,CN,Chengdu,http://182.138.151.55:9090,Chinanet
+49.65.102.237:9093,49.65.102.237,9093,http,,,CN,Nanjing,http://49.65.102.237:9093,CHINANET Nanjing Jishan IDC network
+116.237.206.164:9090,116.237.206.164,9090,http,,,CN,Shanghai,http://116.237.206.164:9090,China Telecom Group
+123.60.85.174:9090,123.60.85.174,9090,http,,,CN,Shanghai,http://123.60.85.174:9090,Huawei Cloud Service data center
+8.153.105.246:9090,8.153.105.246,9090,http,,,CN,Hangzhou,http://8.153.105.246:9090,
+116.226.120.45:9090,116.226.120.45,9090,http,,,CN,Shanghai,http://116.226.120.45:9090,China Telecom Group
+223.72.121.175:9090,223.72.121.175,9090,http,,,CN,Beijing,http://223.72.121.175:9090,China Mobile Communicaitons Corporation
+123.144.139.85:9090,123.144.139.85,9090,http,,,CN,Chongqing,http://123.144.139.85:9090,CHINA UNICOM China169 Backbone
+120.79.152.224:9090,120.79.152.224,9090,http,,,CN,Hangzhou,http://120.79.152.224:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+222.94.215.131:9090,222.94.215.131,9090,http,,,CN,Nanjing,http://222.94.215.131:9090,Chinanet
+123.120.12.249:9090,123.120.12.249,9090,http,,,CN,Beijing,http://123.120.12.249:9090,China Unicom Beijing Province Network
+111.224.136.138:9090,111.224.136.138,9090,http,,,CN,Shijiazhuang,http://111.224.136.138:9090,Chinanet
+47.99.106.90:9090,47.99.106.90,9090,http,,,CN,Hangzhou,http://47.99.106.90:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+49.65.101.160:9100,49.65.101.160,9100,http,,,CN,Nanjing,http://49.65.101.160:9100,CHINANET Nanjing Jishan IDC network
+223.167.77.173:9090,223.167.77.173,9090,http,,,CN,Shanghai,http://223.167.77.173:9090,China Unicom Shanghai network
+124.90.26.254:9090,124.90.26.254,9090,http,,,CN,Hangzhou,http://124.90.26.254:9090,CHINA UNICOM China169 Backbone
+114.245.104.207:9090,114.245.104.207,9090,http,,,CN,Beijing,http://114.245.104.207:9090,China Unicom Beijing Province Network
+223.167.74.237:9090,223.167.74.237,9090,http,,,CN,Shanghai,http://223.167.74.237:9090,China Unicom Shanghai network
+117.72.81.51:9090,117.72.81.51,9090,http,,,CN,Beijing,http://117.72.81.51:9090,
+180.102.20.235:9100,180.102.20.235,9100,http,,,CN,Nanjing,http://180.102.20.235:9100,CHINANET Nanjing Jishan IDC network
+59.60.191.67:9090,59.60.191.67,9090,http,,,CN,Longyan,http://59.60.191.67:9090,Chinanet
+58.48.197.50:9090,58.48.197.50,9090,http,,,CN,Wuhan,http://58.48.197.50:9090,Chinanet
+116.232.221.168:9090,116.232.221.168,9090,http,,,CN,Shanghai,http://116.232.221.168:9090,China Telecom Group
+107.175.28.232:9090,107.175.28.232,9090,http,,,US,Rancho Cucamonga,http://107.175.28.232:9090,AS-COLOCROSSING
+119.98.173.1:9090,119.98.173.1,9090,http,,,CN,Wuhan,http://119.98.173.1:9090,Chinanet
+47.111.168.200:9090,47.111.168.200,9090,http,,,CN,Hangzhou,http://47.111.168.200:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+123.60.216.115:9090,123.60.216.115,9090,http,,,CN,Beijing,http://123.60.216.115:9090,Huawei Cloud Service data center
+39.68.221.82:9090,39.68.221.82,9090,http,,,CN,Linyi,http://39.68.221.82:9090,CHINA UNICOM China169 Backbone
+39.105.206.99:9090,39.105.206.99,9090,http,,,CN,Hangzhou,http://39.105.206.99:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+115.196.64.16:9090,115.196.64.16,9090,http,,,CN,Hangzhou,http://115.196.64.16:9090,Chinanet
+122.247.166.156:9090,122.247.166.156,9090,http,,,CN,Ningbo,http://122.247.166.156:9090,Chinanet
+114.222.25.33:9090,114.222.25.33,9090,http,,,CN,Nanjing,http://114.222.25.33:9090,Chinanet
+120.77.8.127:9090,120.77.8.127,9090,http,,,CN,Hangzhou,http://120.77.8.127:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+120.26.95.217:9090,120.26.95.217,9090,http,,,CN,Hangzhou,http://120.26.95.217:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+60.205.189.192:9090,60.205.189.192,9090,http,,,CN,Beijing,http://60.205.189.192:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+112.117.77.168:9999,112.117.77.168,9999,http,,,CN,Kunming,http://112.117.77.168:9999,Chinanet
+https://114.253.43.248:9090,114.253.43.248,9090,https,,,CN,Beijing,https://114.253.43.248:9090,China Unicom Beijing Province Network
+120.24.168.115:9090,120.24.168.115,9090,http,,,CN,Shenzhen,http://120.24.168.115:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+110.83.179.250:9090,110.83.179.250,9090,http,,,CN,Ningde,http://110.83.179.250:9090,Chinanet
+112.132.232.144:9090,112.132.232.144,9090,http,,,CN,Huaibei,http://112.132.232.144:9090,CHINA UNICOM China169 Backbone
+47.96.90.248:9090,47.96.90.248,9090,http,,,CN,Hangzhou,http://47.96.90.248:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+219.154.155.139:9090,219.154.155.139,9090,http,,,CN,Nanyang,http://219.154.155.139:9090,CHINA UNICOM China169 Backbone
+59.110.52.50:9090,59.110.52.50,9090,http,,,CN,Beijing,http://59.110.52.50:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+171.42.18.216:9090,171.42.18.216,9090,http,,,CN,Yichang,http://171.42.18.216:9090,Chinanet
+47.109.187.193:9090,47.109.187.193,9090,http,,,CN,Hangzhou,http://47.109.187.193:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+101.42.10.98:9090,101.42.10.98,9090,http,,,CN,Beijing,http://101.42.10.98:9090,Shenzhen Tencent Computer Systems Company Limited
+27.17.196.155:9090,27.17.196.155,9090,http,,,CN,Wuhan,http://27.17.196.155:9090,Chinanet
+180.165.168.83:9090,180.165.168.83,9090,http,,,CN,Shanghai,http://180.165.168.83:9090,China Telecom Group
+47.96.29.180:9090,47.96.29.180,9090,http,,,CN,Hangzhou,http://47.96.29.180:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+58.48.224.255:9090,58.48.224.255,9090,http,,,CN,Wuhan,http://58.48.224.255:9090,Chinanet
+118.250.138.168:9090,118.250.138.168,9090,http,,,CN,Changsha,http://118.250.138.168:9090,Chinanet
+60.177.213.185:9090,60.177.213.185,9090,http,,,CN,Hangzhou,http://60.177.213.185:9090,Chinanet
+120.78.6.43:9090,120.78.6.43,9090,http,,,CN,Hangzhou,http://120.78.6.43:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+183.173.65.160:9090,183.173.65.160,9090,http,,,CN,Beijing,http://183.173.65.160:9090,China Education and Research Network Center
+46.250.236.0:9090,46.250.236.0,9090,http,,,GB,London,http://46.250.236.0:9090,Deutsche Telekom AG
+183.6.50.108:9090,183.6.50.108,9090,http,,,CN,Guangzhou,http://183.6.50.108:9090,Chinanet
+180.102.26.44:9100,180.102.26.44,9100,http,,,CN,Nanjing,http://180.102.26.44:9100,CHINANET Nanjing Jishan IDC network
+166.111.5.68:9090,166.111.5.68,9090,http,,,CN,Beijing,http://166.111.5.68:9090,China Education and Research Network Center
+36.20.77.88:9090,36.20.77.88,9090,http,,,CN,Hangzhou,http://36.20.77.88:9090,Chinanet
+180.159.26.28:9090,180.159.26.28,9090,http,,,CN,Shanghai,http://180.159.26.28:9090,China Telecom Group
+101.68.53.126:9090,101.68.53.126,9090,http,,,CN,Hangzhou,http://101.68.53.126:9090,CHINA UNICOM China169 Backbone
+180.109.99.122:9090,180.109.99.122,9090,http,,,CN,Nanjing,http://180.109.99.122:9090,Chinanet
+122.233.17.42:9090,122.233.17.42,9090,http,,,CN,Hangzhou,http://122.233.17.42:9090,Chinanet
+123.120.54.67:9090,123.120.54.67,9090,http,,,CN,Beijing,http://123.120.54.67:9090,China Unicom Beijing Province Network
+8.146.210.1:9090,8.146.210.1,9090,http,,,CN,Hangzhou,http://8.146.210.1:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+74.48.25.245:9090,74.48.25.245,9090,http,,,CA,Burnaby,http://74.48.25.245:9090,
+61.136.162.203:9090,61.136.162.203,9090,http,,,CN,Shiyan,http://61.136.162.203:9090,Chinanet
+60.189.104.27:9090,60.189.104.27,9090,http,,,CN,Taizhou,http://60.189.104.27:9090,Chinanet
+115.214.11.85:9090,115.214.11.85,9090,http,,,CN,Ningbo,http://115.214.11.85:9090,Chinanet
+nas.illidan.top:9090,58.48.197.50,9090,http,,illidan.top,CN,Wuhan,http://nas.illidan.top:9090,Chinanet
+47.113.87.41:9090,47.113.87.41,9090,http,,,CN,Hangzhou,http://47.113.87.41:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+115.199.55.61:9090,115.199.55.61,9090,http,,,CN,Hangzhou,http://115.199.55.61:9090,Chinanet
+180.173.75.49:9090,180.173.75.49,9090,http,,,CN,Shanghai,http://180.173.75.49:9090,China Telecom Group
+220.166.251.66:9090,220.166.251.66,9090,http,,,CN,Chengdu,http://220.166.251.66:9090,Chinanet
+60.205.4.242:9090,60.205.4.242,9090,http,,,CN,Beijing,http://60.205.4.242:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+175.44.42.9:9090,175.44.42.9,9090,http,,,CN,Putian,http://175.44.42.9:9090,CHINA UNICOM China169 Backbone
+47.98.168.252:9090,47.98.168.252,9090,http,,,CN,Hangzhou,http://47.98.168.252:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+47.116.209.199:9090,47.116.209.199,9090,http,,,CN,Shanghai,http://47.116.209.199:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+113.206.33.48:9090,113.206.33.48,9090,http,,,CN,Chongqing,http://113.206.33.48:9090,CHINA UNICOM China169 Backbone
+58.50.138.189:9090,58.50.138.189,9090,http,,,CN,Yichang,http://58.50.138.189:9090,Chinanet
+27.18.216.207:9090,27.18.216.207,9090,http,,,CN,Wuhan,http://27.18.216.207:9090,Chinanet
+220.178.156.250:9090,220.178.156.250,9090,http,,,CN,Bengbu,http://220.178.156.250:9090,Chinanet
+106.53.103.97:9090,106.53.103.97,9090,http,,,CN,Beijing,http://106.53.103.97:9090,Shenzhen Tencent Computer Systems Company Limited
+43.139.240.168:9090,43.139.240.168,9090,http,,,CN,Beijing,http://43.139.240.168:9090,Shenzhen Tencent Computer Systems Company Limited
+43.139.45.187:9090,43.139.45.187,9090,http,,,CN,Beijing,http://43.139.45.187:9090,Shenzhen Tencent Computer Systems Company Limited
+49.69.135.93:9090,49.69.135.93,9090,http,,,CN,Yancheng,http://49.69.135.93:9090,Chinanet
+47.115.129.77:9090,47.115.129.77,9090,http,,,CN,Shenzhen,http://47.115.129.77:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+122.51.105.222:9090,122.51.105.222,9090,http,,,CN,Beijing,http://122.51.105.222:9090,Shenzhen Tencent Computer Systems Company Limited
+223.166.86.95:9090,223.166.86.95,9090,http,,,CN,Shanghai,http://223.166.86.95:9090,China Unicom Shanghai network
+120.133.63.253:9090,120.133.63.253,9090,http,,,CN,Beijing,http://120.133.63.253:9090,China Unicom Beijing Province Network
+103.235.16.30:9090,103.235.16.30,9090,http,,,CN,Hong Kong,http://103.235.16.30:9090,Hong Kong Business Telecom Limited
+61.136.235.182:9090,61.136.235.182,9090,http,,,CN,Shiyan,http://61.136.235.182:9090,Chinanet
+180.117.19.205:9090,180.117.19.205,9090,http,,,CN,Suzhou,http://180.117.19.205:9090,Chinanet
+124.220.58.238:9090,124.220.58.238,9090,http,,,CN,Beijing,http://124.220.58.238:9090,Shenzhen Tencent Computer Systems Company Limited
+183.173.201.102:9090,183.173.201.102,9090,http,,,CN,Beijing,http://183.173.201.102:9090,China Education and Research Network Center
+112.114.202.122:9090,112.114.202.122,9090,http,,,CN,Kunming,http://112.114.202.122:9090,Chinanet
+223.244.161.104:9090,223.244.161.104,9090,http,,,CN,Chuzhou,http://223.244.161.104:9090,Chinanet
+1.13.1.143:9090,1.13.1.143,9090,http,,,CN,Beijing,http://1.13.1.143:9090,Shenzhen Tencent Computer Systems Company Limited
+123.52.153.109:9090,123.52.153.109,9090,http,,,CN,Luoyang,http://123.52.153.109:9090,Chinanet
+110.7.130.204:9090,110.7.130.204,9090,http,,,CN,Baotou,http://110.7.130.204:9090,CHINA UNICOM China169 Backbone
+159.75.104.9:9090,159.75.104.9,9090,http,,,CN,Beijing,http://159.75.104.9:9090,Shenzhen Tencent Computer Systems Company Limited
+116.237.74.181:9090,116.237.74.181,9090,http,,,CN,Shanghai,http://116.237.74.181:9090,China Telecom Group
+8.134.112.35:9090,8.134.112.35,9090,http,,,CN,Guangzhou,http://8.134.112.35:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+81.70.160.154:9090,81.70.160.154,9090,http,,,CN,Beijing,http://81.70.160.154:9090,Shenzhen Tencent Computer Systems Company Limited
+139.196.163.193:9090,139.196.163.193,9090,http,,,CN,Shanghai,http://139.196.163.193:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+123.146.231.139:9090,123.146.231.139,9090,http,,,CN,Chongqing,http://123.146.231.139:9090,CHINA UNICOM China169 Backbone
+60.26.216.101:9090,60.26.216.101,9090,http,,,CN,Tianjin,http://60.26.216.101:9090,CHINA UNICOM China169 Backbone
+47.102.196.222:9090,47.102.196.222,9090,http,,,CN,Hangzhou,http://47.102.196.222:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+115.193.36.113:9090,115.193.36.113,9090,http,,,CN,Hangzhou,http://115.193.36.113:9090,Chinanet
+120.26.88.39:9090,120.26.88.39,9090,http,,,CN,Hangzhou,http://120.26.88.39:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+150.158.225.189:9090,150.158.225.189,9090,http,,,CN,Beijing,http://150.158.225.189:9090,Shenzhen Tencent Computer Systems Company Limited
+183.17.147.81:9090,183.17.147.81,9090,http,,,CN,Shenzhen,http://183.17.147.81:9090,Chinanet
+124.221.143.177:9090,124.221.143.177,9090,http,,,CN,Beijing,http://124.221.143.177:9090,Shenzhen Tencent Computer Systems Company Limited
+60.26.3.37:9090,60.26.3.37,9090,http,,,CN,Tianjin,http://60.26.3.37:9090,CHINA UNICOM China169 Backbone
+113.103.36.29:9090,113.103.36.29,9090,http,,,CN,Guangzhou,http://113.103.36.29:9090,Chinanet
+221.218.215.137:9090,221.218.215.137,9090,http,,,CN,Beijing,http://221.218.215.137:9090,China Unicom Beijing Province Network
+115.197.183.12:9090,115.197.183.12,9090,http,,,CN,Hangzhou,http://115.197.183.12:9090,Chinanet
+106.15.207.199:9090,106.15.207.199,9090,http,,,CN,Hangzhou,http://106.15.207.199:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+124.126.186.113:9090,124.126.186.113,9090,http,,,CN,Beijing,http://124.126.186.113:9090,China Networks Inter-Exchange
+8.138.172.67:9090,8.138.172.67,9090,http,,,CN,Guangzhou,http://8.138.172.67:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+116.52.54.215:9090,116.52.54.215,9090,http,,,CN,Kunming,http://116.52.54.215:9090,Chinanet
+125.121.210.123:9090,125.121.210.123,9090,http,,,CN,Hangzhou,http://125.121.210.123:9090,Chinanet
+124.230.98.133:9090,124.230.98.133,9090,http,,,CN,Shaoyang,http://124.230.98.133:9090,Chinanet
+14.19.197.117:9090,14.19.197.117,9090,http,,,CN,Guangzhou,http://14.19.197.117:9090,Chinanet
+123.60.104.67:9090,123.60.104.67,9090,http,,,CN,Shanghai,http://123.60.104.67:9090,Huawei Cloud Service data center
+110.177.177.77:9090,110.177.177.77,9090,http,,,CN,Taiyuan,http://110.177.177.77:9090,Chinanet
+1.13.247.202:9090,1.13.247.202,9090,http,,,CN,Beijing,http://1.13.247.202:9090,Shenzhen Tencent Computer Systems Company Limited
+47.96.132.163:9090,47.96.132.163,9090,http,,,CN,Hangzhou,http://47.96.132.163:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+101.37.147.113:9090,101.37.147.113,9090,http,,,CN,Hangzhou,http://101.37.147.113:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+27.155.157.18:9090,27.155.157.18,9090,http,,,CN,Fuqing,http://27.155.157.18:9090,Chinanet
+49.232.140.77:9090,49.232.140.77,9090,http,,,CN,Beijing,http://49.232.140.77:9090,Shenzhen Tencent Computer Systems Company Limited
+101.200.45.41:9090,101.200.45.41,9090,http,,,CN,Beijing,http://101.200.45.41:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+49.235.153.107:9090,49.235.153.107,9090,http,,,CN,Beijing,http://49.235.153.107:9090,Shenzhen Tencent Computer Systems Company Limited
+180.174.10.97:9090,180.174.10.97,9090,http,,,CN,Shanghai,http://180.174.10.97:9090,China Telecom Group
+110.187.193.51:9090,110.187.193.51,9090,http,,,CN,Luzhou,http://110.187.193.51:9090,CHINATELECOM SiChuan province Luzhou 5G network
+111.163.89.203:9090,111.163.89.203,9090,http,,,CN,Tianjin,http://111.163.89.203:9090,CHINA UNICOM China169 Backbone
+218.8.6.159:9090,218.8.6.159,9090,http,,,CN,Daqing,http://218.8.6.159:9090,CHINA UNICOM China169 Backbone
+101.34.240.126:9090,101.34.240.126,9090,http,,,CN,Beijing,http://101.34.240.126:9090,Shenzhen Tencent Computer Systems Company Limited
+180.141.246.56:9090,180.141.246.56,9090,http,,,CN,Nanning,http://180.141.246.56:9090,Chinanet
+182.146.185.56:9090,182.146.185.56,9090,http,,,CN,Luzhou,http://182.146.185.56:9090,CHINATELECOM SiChuan province Luzhou 5G network
+123.112.18.41:9090,123.112.18.41,9090,http,,,CN,Beijing,http://123.112.18.41:9090,China Unicom Beijing Province Network
+36.213.46.210:9090,36.213.46.210,9090,http,,,CN,Shijiazhuang,http://36.213.46.210:9090,China TieTong Telecommunications Corporation
+103.235.16.77:9090,103.235.16.77,9090,http,,,CN,Hong Kong,http://103.235.16.77:9090,Hong Kong Business Telecom Limited
+166.111.50.129:9090,166.111.50.129,9090,http,,,CN,Beijing,http://166.111.50.129:9090,China Education and Research Network Center
+39.105.14.226:9090,39.105.14.226,9090,http,,,CN,Hangzhou,http://39.105.14.226:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+47.96.133.207:9090,47.96.133.207,9090,http,,,CN,Hangzhou,http://47.96.133.207:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+14.155.207.37:9090,14.155.207.37,9090,http,,,CN,Shenzhen,http://14.155.207.37:9090,Chinanet
+111.196.129.1:9090,111.196.129.1,9090,http,,,CN,Beijing,http://111.196.129.1:9090,China Unicom Beijing Province Network
+101.224.233.18:9090,101.224.233.18,9090,http,,,CN,Shanghai,http://101.224.233.18:9090,China Telecom Group
+119.45.148.82:9090,119.45.148.82,9090,http,,,CN,Beijing,http://119.45.148.82:9090,Shenzhen Tencent Computer Systems Company Limited
+124.126.140.202:9090,124.126.140.202,9090,http,,,CN,Beijing,http://124.126.140.202:9090,China Networks Inter-Exchange
+124.64.218.47:9090,124.64.218.47,9090,http,,,CN,Beijing,http://124.64.218.47:9090,China Unicom Beijing Province Network
+82.156.22.213:9090,82.156.22.213,9090,http,,,CN,Beijing,http://82.156.22.213:9090,Shenzhen Tencent Computer Systems Company Limited
+202.104.45.76:9090,202.104.45.76,9090,http,,,CN,Guangzhou,http://202.104.45.76:9090,Chinanet
+58.37.152.3:9090,58.37.152.3,9090,http,,,CN,Shanghai,http://58.37.152.3:9090,China Telecom Group
+120.25.1.15:9090,120.25.1.15,9090,http,,,CN,Shenzhen,http://120.25.1.15:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+101.224.170.11:9090,101.224.170.11,9090,http,,,CN,Shanghai,http://101.224.170.11:9090,China Telecom Group
+115.196.250.136:9090,115.196.250.136,9090,http,,,CN,Hangzhou,http://115.196.250.136:9090,Chinanet
+39.101.160.233:9090,39.101.160.233,9090,http,,,CN,Hangzhou,http://39.101.160.233:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+101.6.68.57:9090,101.6.68.57,9090,http,,,CN,Beijing,http://101.6.68.57:9090,China Education and Research Network Center
+115.56.114.145:9090,115.56.114.145,9090,http,,,CN,Shangqiu,http://115.56.114.145:9090,CHINA UNICOM China169 Backbone
+123.116.119.9:9090,123.116.119.9,9090,http,,,CN,Beijing,http://123.116.119.9:9090,China Unicom Beijing Province Network
+https://222.70.69.99:9090,222.70.69.99,9090,https,,,CN,Shanghai,https://222.70.69.99:9090,China Telecom Group
+121.52.219.162:9090,121.52.219.162,9090,http,,,CN,Beijing,http://121.52.219.162:9090,China Unicom Beijing Province Network
+183.130.16.73:9090,183.130.16.73,9090,http,,,CN,Wenzhou,http://183.130.16.73:9090,Chinanet
+58.37.167.225:9090,58.37.167.225,9090,http,,,CN,Shanghai,http://58.37.167.225:9090,China Telecom Group
+116.234.32.140:9090,116.234.32.140,9090,http,,,CN,Shanghai,http://116.234.32.140:9090,China Telecom Group
+58.38.0.234:9090,58.38.0.234,9090,http,,,CN,Shanghai,http://58.38.0.234:9090,China Telecom Group
+119.29.254.124:9090,119.29.254.124,9090,http,,,CN,Hong Kong,http://119.29.254.124:9090,Shenzhen Tencent Computer Systems Company Limited
+123.249.90.52:9090,123.249.90.52,9090,http,,,CN,Guangzhou,http://123.249.90.52:9090,Huawei Cloud Service data center
+58.37.197.164:9090,58.37.197.164,9090,http,,,CN,Shanghai,http://58.37.197.164:9090,China Telecom Group
+101.71.237.21:9090,101.71.237.21,9090,http,,,CN,Hangzhou,http://101.71.237.21:9090,CHINA UNICOM China169 Backbone
+101.43.179.144:9090,101.43.179.144,9090,http,,,CN,Beijing,http://101.43.179.144:9090,Shenzhen Tencent Computer Systems Company Limited
+49.7.225.123:9090,49.7.225.123,9090,http,,,CN,Beijing,http://49.7.225.123:9090,"IDC, China Telecommunications Corporation"
+121.37.199.234:9090,121.37.199.234,9090,http,,,CN,Guangzhou,http://121.37.199.234:9090,Huawei Cloud Service data center
+59.172.50.172:9090,59.172.50.172,9090,http,,,CN,Wuhan,http://59.172.50.172:9090,Chinanet
+39.98.155.187:9090,39.98.155.187,9090,http,,,CN,Hangzhou,http://39.98.155.187:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+122.96.67.25:9090,122.96.67.25,9090,http,,,CN,Nanjing,http://122.96.67.25:9090,CHINA UNICOM China169 Backbone
+166.111.79.5:9090,166.111.79.5,9090,http,,,CN,Beijing,http://166.111.79.5:9090,China Education and Research Network Center
+58.56.131.11:9090,58.56.131.11,9090,http,,,CN,Qingdao,http://58.56.131.11:9090,Chinanet
+183.251.2.50:9090,183.251.2.50,9090,http,,,CN,Fuzhou,http://183.251.2.50:9090,"China Mobile Communications Group Co., Ltd."
+61.146.188.20:9090,61.146.188.20,9090,http,,,CN,Meizhou,http://61.146.188.20:9090,Chinanet
+c.iflame.vip,8.218.133.87,80,http,,iflame.vip,CN,Hong Kong,http://c.iflame.vip,"Alibaba US Technology Co., Ltd."
+110.40.64.30:9090,110.40.64.30,9090,http,,,CN,Chengdu,http://110.40.64.30:9090,
+39.103.217.210:9090,39.103.217.210,9090,http,,,CN,Hangzhou,http://39.103.217.210:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+121.60.56.110:9090,121.60.56.110,9090,http,,,CN,Wuhan,http://121.60.56.110:9090,Chinanet
+210.45.70.84:9090,210.45.70.84,9090,http,,,CN,Beijing,http://210.45.70.84:9090,China Education and Research Network Center
+121.31.72.160:9090,121.31.72.160,9090,http,,,CN,Nanning,http://121.31.72.160:9090,CHINA UNICOM China169 Backbone
+49.65.160.190:9090,49.65.160.190,9090,http,,,CN,Nanjing,http://49.65.160.190:9090,Chinanet
+43.139.175.20:9090,43.139.175.20,9090,http,,,CN,Beijing,http://43.139.175.20:9090,Shenzhen Tencent Computer Systems Company Limited
+101.43.17.78:9090,101.43.17.78,9090,http,,,CN,Shanghai,http://101.43.17.78:9090,Shenzhen Tencent Computer Systems Company Limited
+47.103.11.225:9090,47.103.11.225,9090,http,,,CN,Hangzhou,http://47.103.11.225:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+112.10.214.8:9090,112.10.214.8,9090,http,,,CN,Hangzhou,http://112.10.214.8:9090,China Mobile communications corporation
+82.156.249.91:9090,82.156.249.91,9090,http,,,CN,Beijing,http://82.156.249.91:9090,Shenzhen Tencent Computer Systems Company Limited
+125.122.28.1:9090,125.122.28.1,9090,http,,,CN,Hangzhou,http://125.122.28.1:9090,Chinanet
+1.197.141.90:9090,1.197.141.90,9090,http,,,CN,Xuchang,http://1.197.141.90:9090,Chinanet
+221.237.11.51:9090,221.237.11.51,9090,http,,,CN,Chengdu,http://221.237.11.51:9090,Chinanet
+180.212.30.157:9090,180.212.30.157,9090,http,,,CN,Tianjin,http://180.212.30.157:9090,ASN for TIANJIN Provincial Net of CT
+14.19.138.75:9090,14.19.138.75,9090,http,,,CN,Guangzhou,http://14.19.138.75:9090,Chinanet
+49.234.47.94:9090,49.234.47.94,9090,http,,,CN,Beijing,http://49.234.47.94:9090,Shenzhen Tencent Computer Systems Company Limited
+155.248.176.99:9090,155.248.176.99,9090,http,,,JP,Tokyo,http://155.248.176.99:9090,ORACLE-BMC-31898
+115.215.91.174:9090,115.215.91.174,9090,http,,,CN,Ningbo,http://115.215.91.174:9090,Chinanet
+113.56.128.61:9090,113.56.128.61,9090,http,,,CN,Shiyan,http://113.56.128.61:9090,CHINA UNICOM China169 Backbone
+58.37.152.175:9090,58.37.152.175,9090,http,,,CN,Shanghai,http://58.37.152.175:9090,China Telecom Group
+27.19.122.124:9090,27.19.122.124,9090,http,,,CN,Wuhan,http://27.19.122.124:9090,Chinanet
+183.155.44.250:9090,183.155.44.250,9090,http,,,CN,Ningbo,http://183.155.44.250:9090,Chinanet
+180.102.16.183:9100,180.102.16.183,9100,http,,,CN,Nanjing,http://180.102.16.183:9100,CHINANET Nanjing Jishan IDC network
+14.103.44.250:9090,14.103.44.250,9090,http,,,CN,Beijing,http://14.103.44.250:9090,
+115.216.0.150:9090,115.216.0.150,9090,http,,,CN,Ningbo,http://115.216.0.150:9090,Chinanet
+120.26.67.214:9191,120.26.67.214,9191,http,,,CN,Hangzhou,http://120.26.67.214:9191,"Hangzhou Alibaba Advertising Co.,Ltd."
+106.54.19.104:9090,106.54.19.104,9090,http,,,CN,Beijing,http://106.54.19.104:9090,Shenzhen Tencent Computer Systems Company Limited
+116.198.226.130:9090,116.198.226.130,9090,http,,,CN,Beijing,http://116.198.226.130:9090,CHINATELECOM Jiangsu Suqian IDC network
+8.138.18.19:9090,8.138.18.19,9090,http,,,CN,Guangzhou,http://8.138.18.19:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+124.223.66.231:9091,124.223.66.231,9091,http,,,CN,Beijing,http://124.223.66.231:9091,Shenzhen Tencent Computer Systems Company Limited
+139.9.215.192:9090,139.9.215.192,9090,http,,,CN,Guangzhou,http://139.9.215.192:9090,Huawei Cloud Service data center
+39.183.168.15:9090,39.183.168.15,9090,http,,,CN,Huzhou,http://39.183.168.15:9090,China Mobile communications corporation
+175.4.64.122:9090,175.4.64.122,9090,http,,,CN,Zhuzhou,http://175.4.64.122:9090,Chinanet
+47.97.182.228:9090,47.97.182.228,9090,http,,,CN,Hangzhou,http://47.97.182.228:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+115.197.198.62:9090,115.197.198.62,9090,http,,,CN,Hangzhou,http://115.197.198.62:9090,Chinanet
+150.158.130.95:9090,150.158.130.95,9090,http,,,CN,Beijing,http://150.158.130.95:9090,Shenzhen Tencent Computer Systems Company Limited
+101.200.57.92:9090,101.200.57.92,9090,http,,,CN,Beijing,http://101.200.57.92:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+114.250.93.43:9090,114.250.93.43,9090,http,,,CN,Beijing,http://114.250.93.43:9090,China Unicom Beijing Province Network
+110.42.225.101:9090,110.42.225.101,9090,http,,,CN,Beijing,http://110.42.225.101:9090,Shenzhen Tencent Computer Systems Company Limited
+47.103.149.218:9090,47.103.149.218,9090,http,,,CN,Hangzhou,http://47.103.149.218:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+118.24.74.228:9090,118.24.74.228,9090,http,,,CN,Beijing,http://118.24.74.228:9090,Shenzhen Tencent Computer Systems Company Limited
+175.44.42.156:9090,175.44.42.156,9090,http,,,CN,Putian,http://175.44.42.156:9090,CHINA UNICOM China169 Backbone
+221.216.143.116:9090,221.216.143.116,9090,http,,,CN,Beijing,http://221.216.143.116:9090,China Unicom Beijing Province Network
+183.149.163.62:9090,183.149.163.62,9090,http,,,CN,Taizhou,http://183.149.163.62:9090,Chinanet
+113.44.78.176:9090,113.44.78.176,9090,http,,,CN,Guangzhou,http://113.44.78.176:9090,
+49.72.26.249:9090,49.72.26.249,9090,http,,,CN,Suzhou,http://49.72.26.249:9090,Chinanet
+39.184.16.4:9090,39.184.16.4,9090,http,,,CN,Taizhou,http://39.184.16.4:9090,China Mobile communications corporation
+120.77.253.116:9090,120.77.253.116,9090,http,,,CN,Hangzhou,http://120.77.253.116:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+110.42.247.156:9090,110.42.247.156,9090,http,,,CN,Beijing,http://110.42.247.156:9090,Shenzhen Tencent Computer Systems Company Limited
+139.224.2.172:9090,139.224.2.172,9090,http,,,CN,Shanghai,http://139.224.2.172:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+82.156.237.162:9090,82.156.237.162,9090,http,,,CN,Beijing,http://82.156.237.162:9090,Shenzhen Tencent Computer Systems Company Limited
+36.213.46.190:9090,36.213.46.190,9090,http,,,CN,Shijiazhuang,http://36.213.46.190:9090,China TieTong Telecommunications Corporation
+119.176.249.85:9090,119.176.249.85,9090,http,,,CN,Linyi,http://119.176.249.85:9090,CHINA UNICOM China169 Backbone
+27.11.92.194:9090,27.11.92.194,9090,http,,,CN,Chongqing,http://27.11.92.194:9090,CHINA UNICOM China169 Backbone
+124.221.230.222:9090,124.221.230.222,9090,http,,,CN,Beijing,http://124.221.230.222:9090,Shenzhen Tencent Computer Systems Company Limited
+111.193.226.155:9090,111.193.226.155,9090,http,,,CN,Beijing,http://111.193.226.155:9090,China Unicom Beijing Province Network
+47.119.181.33:9090,47.119.181.33,9090,http,,,CN,Shenzhen,http://47.119.181.33:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+43.155.73.163:9090,43.155.73.163,9090,http,,,CN,Hong Kong,http://43.155.73.163:9090,"Tencent Building, Kejizhongyi Avenue"
+115.206.141.46:9090,115.206.141.46,9090,http,,,CN,Hangzhou,http://115.206.141.46:9090,Chinanet
+49.65.183.69:9090,49.65.183.69,9090,http,,,CN,Nanjing,http://49.65.183.69:9090,Chinanet
+125.92.100.123:9090,125.92.100.123,9090,http,,,CN,Jiangmen,http://125.92.100.123:9090,Chinanet
+82.157.7.182:9090,82.157.7.182,9090,http,,,CN,Beijing,http://82.157.7.182:9090,Shenzhen Tencent Computer Systems Company Limited
+117.30.33.115:9090,117.30.33.115,9090,http,,,CN,Xiamen,http://117.30.33.115:9090,Chinanet
+114.250.91.81:9090,114.250.91.81,9090,http,,,CN,Beijing,http://114.250.91.81:9090,China Unicom Beijing Province Network
+27.202.119.229:9090,27.202.119.229,9090,http,,,CN,Dongying,http://27.202.119.229:9090,CHINA UNICOM China169 Backbone
+121.13.55.45:9090,121.13.55.45,9090,http,,,CN,Dongguan,http://121.13.55.45:9090,Chinanet
+112.193.5.89:9090,112.193.5.89,9090,http,,,CN,Chengdu,http://112.193.5.89:9090,CHINA UNICOM China169 Backbone
+111.196.133.249:9090,111.196.133.249,9090,http,,,CN,Beijing,http://111.196.133.249:9090,China Unicom Beijing Province Network
+139.196.203.157:9090,139.196.203.157,9090,http,,,CN,Shanghai,http://139.196.203.157:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+14.103.53.57:9090,14.103.53.57,9090,http,,,CN,Beijing,http://14.103.53.57:9090,
+8.153.38.229:9090,8.153.38.229,9090,http,,,CN,Hangzhou,http://8.153.38.229:9090,
+118.89.135.6:9090,118.89.135.6,9090,http,,,CN,Beijing,http://118.89.135.6:9090,Shenzhen Tencent Computer Systems Company Limited
+47.113.121.219:9090,47.113.121.219,9090,http,,,CN,Hangzhou,http://47.113.121.219:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+121.237.23.247:9090,121.237.23.247,9090,http,,,CN,Suzhou,http://121.237.23.247:9090,Chinanet
+175.178.27.93:9000,175.178.27.93,9000,http,,,CN,Beijing,http://175.178.27.93:9000,Shenzhen Tencent Computer Systems Company Limited
+117.81.161.24:9090,117.81.161.24,9090,http,,,CN,Suzhou,http://117.81.161.24:9090,Chinanet
+47.115.37.155:9090,47.115.37.155,9090,http,,,CN,Shenzhen,http://47.115.37.155:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+118.248.224.87:7070,118.248.224.87,7070,http,,,CN,Shaoyang,http://118.248.224.87:7070,Chinanet
+116.149.13.231:9090,116.149.13.231,9090,http,,,CN,Beijing,http://116.149.13.231:9090,CHINA UNICOM China169 Backbone
+120.24.179.117:9090,120.24.179.117,9090,http,,,CN,Shenzhen,http://120.24.179.117:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+125.71.126.14:9090,125.71.126.14,9090,http,,,CN,Chengdu,http://125.71.126.14:9090,Chinanet
+14.134.156.158:9090,14.134.156.158,9090,http,,,CN,Wuzhong,http://14.134.156.158:9090,Chinanet
+122.112.212.163:9090,122.112.212.163,9090,http,,,CN,Guangzhou,http://122.112.212.163:9090,Huawei Cloud Service data center
+112.123.132.195:9090,112.123.132.195,9090,http,,,CN,Chuzhou,http://112.123.132.195:9090,CHINA UNICOM China169 Backbone
+183.128.95.98:9090,183.128.95.98,9090,http,,,CN,Hangzhou,http://183.128.95.98:9090,Chinanet
+110.185.170.154:9090,110.185.170.154,9090,http,,,CN,Chengdu,http://110.185.170.154:9090,Chinanet
+117.26.13.37:9090,117.26.13.37,9090,http,,,CN,Quanzhou,http://117.26.13.37:9090,Chinanet
+180.175.160.155:9090,180.175.160.155,9090,http,,,CN,Shanghai,http://180.175.160.155:9090,China Telecom Group
+183.129.66.223:9090,183.129.66.223,9090,http,,,CN,Hangzhou,http://183.129.66.223:9090,Chinanet
+39.68.245.13:9090,39.68.245.13,9090,http,,,CN,Linyi,http://39.68.245.13:9090,CHINA UNICOM China169 Backbone
+106.122.239.150:9090,106.122.239.150,9090,http,,,CN,Guangzhou,http://106.122.239.150:9090,Chinanet
+219.140.227.122:9090,219.140.227.122,9090,http,,,CN,Wuhan,http://219.140.227.122:9090,Chinanet
+113.45.202.74:9090,113.45.202.74,9090,http,,,CN,Guangzhou,http://113.45.202.74:9090,
+222.94.131.137:9090,222.94.131.137,9090,http,,,CN,Nanjing,http://222.94.131.137:9090,Chinanet
+222.186.34.52:9090,222.186.34.52,9090,http,,,CN,Zhenjiang,http://222.186.34.52:9090,Chinanet
+122.233.193.215:9090,122.233.193.215,9090,http,,,CN,Hangzhou,http://122.233.193.215:9090,Chinanet
+120.233.46.115:9090,120.233.46.115,9090,http,,,CN,Shenzhen,http://120.233.46.115:9090,China Mobile communications corporation
+117.72.46.5:9090,117.72.46.5,9090,http,,,CN,Beijing,http://117.72.46.5:9090,
+114.214.170.182:9090,114.214.170.182,9090,http,,,CN,Nanjing,http://114.214.170.182:9090,China Education and Research Network Center
+222.70.43.148:9090,222.70.43.148,9090,http,,,CN,Shanghai,http://222.70.43.148:9090,China Telecom Group
+106.15.0.62:9090,106.15.0.62,9090,http,,,CN,Hangzhou,http://106.15.0.62:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+125.109.60.62:9090,125.109.60.62,9090,http,,,CN,Wenzhou,http://125.109.60.62:9090,Chinanet
+175.178.186.71:9090,175.178.186.71,9090,http,,,CN,Beijing,http://175.178.186.71:9090,Shenzhen Tencent Computer Systems Company Limited
+183.134.175.182:9090,183.134.175.182,9090,http,,,CN,Hangzhou,http://183.134.175.182:9090,Chinanet
+47.96.116.224:9090,47.96.116.224,9090,http,,,CN,Hangzhou,http://47.96.116.224:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+47.98.172.173:9090,47.98.172.173,9090,http,,,CN,Hangzhou,http://47.98.172.173:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+202.112.51.218:9090,202.112.51.218,9090,http,,,CN,Beijing,http://202.112.51.218:9090,CERNET2 IX at Tsinghua University
+220.191.56.233:9090,220.191.56.233,9090,http,,,CN,Hangzhou,http://220.191.56.233:9090,Chinanet
+120.79.157.188:9090,120.79.157.188,9090,http,,,CN,Hangzhou,http://120.79.157.188:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+222.195.76.10:9090,222.195.76.10,9090,http,,,CN,Nanjing,http://222.195.76.10:9090,China Education and Research Network Center
+60.204.135.82:9090,60.204.135.82,9090,http,,,CN,Guangzhou,http://60.204.135.82:9090,Huawei Cloud Service data center
+123.118.3.24:9100,123.118.3.24,9100,http,,,CN,Beijing,http://123.118.3.24:9100,China Unicom Beijing Province Network
+49.77.12.208:9090,49.77.12.208,9090,http,,,CN,Nanjing,http://49.77.12.208:9090,Chinanet
+166.111.78.75:9091,166.111.78.75,9091,http,,,CN,Beijing,http://166.111.78.75:9091,China Education and Research Network Center
+120.46.184.183:9090,120.46.184.183,9090,http,,,CN,Guangzhou,http://120.46.184.183:9090,Huawei Cloud Service data center
+220.249.168.157:9090,220.249.168.157,9090,http,,,CN,Fuzhou,http://220.249.168.157:9090,CHINA UNICOM China169 Backbone
+8.136.109.84:9090,8.136.109.84,9090,http,,,CN,Hangzhou,http://8.136.109.84:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+115.220.130.196:9090,115.220.130.196,9090,http,,,CN,Ningbo,http://115.220.130.196:9090,Chinanet
+60.182.38.27:9090,60.182.38.27,9090,http,,,CN,Jinhua,http://60.182.38.27:9090,Chinanet
+8.133.183.55:9090,8.133.183.55,9090,http,,,CN,Hangzhou,http://8.133.183.55:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+125.34.51.145:9090,125.34.51.145,9090,http,,,CN,Beijing,http://125.34.51.145:9090,China Unicom Beijing Province Network
+123.60.87.63:9090,123.60.87.63,9090,http,,,CN,Shanghai,http://123.60.87.63:9090,Huawei Cloud Service data center
+123.56.40.87:9090,123.56.40.87,9090,http,,,CN,Beijing,http://123.56.40.87:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+123.154.20.236:9090,123.154.20.236,9090,http,,,CN,Wenzhou,http://123.154.20.236:9090,CHINA UNICOM China169 Backbone
+124.71.133.242:9090,124.71.133.242,9090,http,,,CN,Shanghai,http://124.71.133.242:9090,Huawei Cloud Service data center
+124.223.188.20:9090,124.223.188.20,9090,http,,,CN,Beijing,http://124.223.188.20:9090,Shenzhen Tencent Computer Systems Company Limited
+124.223.48.49:9090,124.223.48.49,9090,http,,,CN,Beijing,http://124.223.48.49:9090,Shenzhen Tencent Computer Systems Company Limited
+125.70.203.71:9090,125.70.203.71,9090,http,,,CN,Chengdu,http://125.70.203.71:9090,Chinanet
+139.227.100.193:9090,139.227.100.193,9090,http,,,CN,Shanghai,http://139.227.100.193:9090,China Unicom Shanghai network
+175.44.42.141:9090,175.44.42.141,9090,http,,,CN,Putian,http://175.44.42.141:9090,CHINA UNICOM China169 Backbone
+159.75.52.212:9090,159.75.52.212,9090,http,,,CN,Beijing,http://159.75.52.212:9090,Shenzhen Tencent Computer Systems Company Limited
+175.10.58.78:9090,175.10.58.78,9090,http,,,CN,Changsha,http://175.10.58.78:9090,Chinanet
+175.178.164.182:9090,175.178.164.182,9090,http,,,CN,Beijing,http://175.178.164.182:9090,Shenzhen Tencent Computer Systems Company Limited
+https://c.iflame.vip,8.218.133.87,443,https,,iflame.vip,CN,Hong Kong,https://c.iflame.vip,"Alibaba US Technology Co., Ltd."
+119.29.154.2:9990,119.29.154.2,9990,http,,,CN,Hong Kong,http://119.29.154.2:9990,Shenzhen Tencent Computer Systems Company Limited
+180.102.26.44:9091,180.102.26.44,9091,http,,,CN,Nanjing,http://180.102.26.44:9091,CHINANET Nanjing Jishan IDC network
+59.110.171.40:8093,59.110.171.40,8093,http,,,CN,Beijing,http://59.110.171.40:8093,"Hangzhou Alibaba Advertising Co.,Ltd."
+49.234.47.94,49.234.47.94,80,http,,,CN,Beijing,http://49.234.47.94,Shenzhen Tencent Computer Systems Company Limited
+47.95.31.77:9091,47.95.31.77,9091,http,,,CN,Hangzhou,http://47.95.31.77:9091,"Hangzhou Alibaba Advertising Co.,Ltd."
+180.107.46.78:9090,180.107.46.78,9090,http,,,CN,Suzhou,http://180.107.46.78:9090,Chinanet
+180.126.174.29:9090,180.126.174.29,9090,http,,,CN,Yancheng,http://180.126.174.29:9090,Chinanet
+139.196.142.165:9998,139.196.142.165,9998,http,,,CN,Shanghai,http://139.196.142.165:9998,"Hangzhou Alibaba Advertising Co.,Ltd."
+210.5.158.91:9092,210.5.158.91,9092,http,,,CN,Shanghai,http://210.5.158.91:9092,China Telecom Group
+23.247.131.141:9092,23.247.131.141,9092,http,,,CN,Hong Kong,http://23.247.131.141:9092,YISU CLOUD LTD
+www.meyang.online:9090,123.146.231.139,9090,http,,meyang.online,CN,Chongqing,http://www.meyang.online:9090,CHINA UNICOM China169 Backbone
+49.65.101.160:9091,49.65.101.160,9091,http,,,CN,Nanjing,http://49.65.101.160:9091,CHINANET Nanjing Jishan IDC network
+49.65.178.246:85,49.65.178.246,85,http,,,CN,Nanjing,http://49.65.178.246:85,Chinanet
+47.115.41.97:5090,47.115.41.97,5090,http,,,CN,Shenzhen,http://47.115.41.97:5090,"Hangzhou Alibaba Advertising Co.,Ltd."
+182.92.119.65:5090,182.92.119.65,5090,http,,,CN,Beijing,http://182.92.119.65:5090,"Hangzhou Alibaba Advertising Co.,Ltd."
+220.191.37.64:5090,220.191.37.64,5090,http,,,CN,Hangzhou,http://220.191.37.64:5090,Chinanet
+119.167.27.191:5090,119.167.27.191,5090,http,,,CN,Qingdao,http://119.167.27.191:5090,CHINA UNICOM China169 Backbone
+1.14.226.10:5090,1.14.226.10,5090,http,,,CN,Beijing,http://1.14.226.10:5090,Shenzhen Tencent Computer Systems Company Limited
+111.73.98.158:5090,111.73.98.158,5090,http,,,CN,Jiujiang,http://111.73.98.158:5090,Chinanet
+14.216.171.186:5090,14.216.171.186,5090,http,,,CN,Dongguan,http://14.216.171.186:5090,Chinanet
+124.222.154.100:5090,124.222.154.100,5090,http,,,CN,Beijing,http://124.222.154.100:5090,Shenzhen Tencent Computer Systems Company Limited
+220.166.251.63:9090,220.166.251.63,9090,http,,,CN,Chengdu,http://220.166.251.63:9090,Chinanet
+115.227.154.188:5090,115.227.154.188,5090,http,,,CN,Jiaxing,http://115.227.154.188:5090,Chinanet
+106.120.13.247:9999,106.120.13.247,9999,http,,,CN,Beijing,http://106.120.13.247:9999,China Networks Inter-Exchange
+58.39.154.149:9999,58.39.154.149,9999,http,,,CN,Shanghai,http://58.39.154.149:9999,China Telecom Group
+47.119.17.71:8999,47.119.17.71,8999,http,,,CN,Shenzhen,http://47.119.17.71:8999,"Hangzhou Alibaba Advertising Co.,Ltd."
+27.8.203.207:9999,27.8.203.207,9999,http,,,CN,Chongqing,http://27.8.203.207:9999,CHINA UNICOM China169 Backbone
+125.121.127.178:9999,125.121.127.178,9999,http,,,CN,Hangzhou,http://125.121.127.178:9999,Chinanet
+8.153.36.67:9999,8.153.36.67,9999,http,,,CN,Hangzhou,http://8.153.36.67:9999,
+107.173.180.211:9999,107.173.180.211,9999,http,,,US,Williamsville,http://107.173.180.211:9999,AS-COLOCROSSING
+139.198.115.56:9999,139.198.115.56,9999,http,,,CN,Beijing,http://139.198.115.56:9999,Yunify Technologies Inc.
+112.193.99.62:9999,112.193.99.62,9999,http,,,CN,Chengdu,http://112.193.99.62:9999,CHINA UNICOM China169 Backbone
+110.41.56.227:9999,110.41.56.227,9999,http,,,CN,Guangzhou,http://110.41.56.227:9999,Huawei Cloud Service data center
+121.43.229.121:9999,121.43.229.121,9999,http,,,CN,Hangzhou,http://121.43.229.121:9999,"Hangzhou Alibaba Advertising Co.,Ltd."
+101.33.211.207:9999,101.33.211.207,9999,http,,,CN,Beijing,http://101.33.211.207:9999,Shenzhen Tencent Computer Systems Company Limited
+116.54.86.139:9999,116.54.86.139,9999,http,,,CN,Kunming,http://116.54.86.139:9999,Chinanet
+47.113.151.90:9999,47.113.151.90,9999,http,,,CN,Hangzhou,http://47.113.151.90:9999,"Hangzhou Alibaba Advertising Co.,Ltd."
+47.116.127.69:9999,47.116.127.69,9999,http,,,CN,Shanghai,http://47.116.127.69:9999,"Hangzhou Alibaba Advertising Co.,Ltd."
+124.222.14.160:18080,124.222.14.160,18080,http,,,CN,Beijing,http://124.222.14.160:18080,Shenzhen Tencent Computer Systems Company Limited
+118.248.225.14:7070,118.248.225.14,7070,http,,,CN,Shaoyang,http://118.248.225.14:7070,Chinanet
+106.52.254.166:9999,106.52.254.166,9999,http,,,CN,Beijing,http://106.52.254.166:9999,Shenzhen Tencent Computer Systems Company Limited
+175.24.201.197:9999,175.24.201.197,9999,http,,,CN,Beijing,http://175.24.201.197:9999,Shenzhen Tencent Computer Systems Company Limited
+117.78.4.184:9999,117.78.4.184,9999,http,,,CN,Guangzhou,http://117.78.4.184:9999,Huawei Cloud Service data center
+27.46.124.2:9999,27.46.124.2,9999,http,,,CN,Shenzhen,http://27.46.124.2:9999,China Unicom Shenzen network
+124.223.115.167:8082,124.223.115.167,8082,http,,,CN,Beijing,http://124.223.115.167:8082,Shenzhen Tencent Computer Systems Company Limited
+221.14.153.73:8020,221.14.153.73,8020,http,,,CN,Xuchang,http://221.14.153.73:8020,CHINA UNICOM China169 Backbone
+81.70.160.31:6666,81.70.160.31,6666,http,,,CN,Beijing,http://81.70.160.31:6666,Shenzhen Tencent Computer Systems Company Limited
+43.138.30.52:8090,43.138.30.52,8090,http,,,CN,Beijing,http://43.138.30.52:8090,Shenzhen Tencent Computer Systems Company Limited
+122.233.134.102:8090,122.233.134.102,8090,http,,,CN,Hangzhou,http://122.233.134.102:8090,Chinanet
+221.14.152.207:8020,221.14.152.207,8020,http,,,CN,Xuchang,http://221.14.152.207:8020,CHINA UNICOM China169 Backbone
+110.86.98.91:9090,110.86.98.91,9090,http,,,CN,Xiamen,http://110.86.98.91:9090,Chinanet
+27.18.216.236:9090,27.18.216.236,9090,http,,,CN,Wuhan,http://27.18.216.236:9090,Chinanet
+114.97.98.187:9090,114.97.98.187,9090,http,,,CN,Hefei,http://114.97.98.187:9090,Chinanet
+149.88.87.238:9090,149.88.87.238,9090,http,,,US,Washington,http://149.88.87.238:9090,
+59.32.96.160:9090,59.32.96.160,9090,http,,,CN,Meizhou,http://59.32.96.160:9090,Chinanet
+39.83.178.147:9090,39.83.178.147,9090,http,,,CN,Linyi,http://39.83.178.147:9090,CHINA UNICOM China169 Backbone
+218.19.17.142:9090,218.19.17.142,9090,http,,,CN,Guangzhou,http://218.19.17.142:9090,Chinanet
+49.85.78.101:9090,49.85.78.101,9090,http,,,CN,Taizhou,http://49.85.78.101:9090,Chinanet
+101.6.103.23:9090,101.6.103.23,9090,http,,,CN,Beijing,http://101.6.103.23:9090,China Education and Research Network Center
+222.185.64.237:9090,222.185.64.237,9090,http,,,CN,Changzhou,http://222.185.64.237:9090,Chinanet
+183.147.126.30:9090,183.147.126.30,9090,http,,,CN,Jinhua,http://183.147.126.30:9090,Chinanet
+58.55.150.54:9090,58.55.150.54,9090,http,,,CN,Ezhou,http://58.55.150.54:9090,Chinanet
+183.158.178.37:9090,183.158.178.37,9090,http,,,CN,Hangzhou,http://183.158.178.37:9090,Chinanet
+122.244.32.95:9090,122.244.32.95,9090,http,,,CN,Ningbo,http://122.244.32.95:9090,Chinanet
+115.214.15.166:9090,115.214.15.166,9090,http,,,CN,Ningbo,http://115.214.15.166:9090,Chinanet
+123.117.168.69:9090,123.117.168.69,9090,http,,,CN,Beijing,http://123.117.168.69:9090,China Unicom Beijing Province Network
+183.155.235.217:9090,183.155.235.217,9090,http,,,CN,Jinhua,http://183.155.235.217:9090,Chinanet
+120.26.100.223:9090,120.26.100.223,9090,http,,,CN,Hangzhou,http://120.26.100.223:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+124.90.167.130:9090,124.90.167.130,9090,http,,,CN,Hangzhou,http://124.90.167.130:9090,CHINA UNICOM China169 Backbone
+101.5.203.240:9090,101.5.203.240,9090,http,,,CN,Beijing,http://101.5.203.240:9090,China Education and Research Network Center
+27.17.252.55:9090,27.17.252.55,9090,http,,,CN,Wuhan,http://27.17.252.55:9090,Chinanet
+222.139.171.36:9090,222.139.171.36,9090,http,,,CN,Xinxiang,http://222.139.171.36:9090,CHINA UNICOM China169 Backbone
+223.166.234.190:9090,223.166.234.190,9090,http,,,CN,Shanghai,http://223.166.234.190:9090,China Unicom Shanghai network
+124.220.15.152:9090,124.220.15.152,9090,http,,,CN,Beijing,http://124.220.15.152:9090,Shenzhen Tencent Computer Systems Company Limited
+222.65.200.126:9090,222.65.200.126,9090,http,,,CN,Shanghai,http://222.65.200.126:9090,China Telecom Group
+116.196.93.93:9090,116.196.93.93,9090,http,,,CN,Beijing,http://116.196.93.93:9090,China Unicom Beijing Province Network
+115.210.235.195:9090,115.210.235.195,9090,http,,,CN,Jinhua,http://115.210.235.195:9090,Chinanet
+180.172.76.230:9090,180.172.76.230,9090,http,,,CN,Shanghai,http://180.172.76.230:9090,China Telecom Group
+222.65.63.237:9090,222.65.63.237,9090,http,,,CN,Shanghai,http://222.65.63.237:9090,China Telecom Group
+121.60.59.182:9090,121.60.59.182,9090,http,,,CN,Wuhan,http://121.60.59.182:9090,Chinanet
+123.120.0.145:9090,123.120.0.145,9090,http,,,CN,Beijing,http://123.120.0.145:9090,China Unicom Beijing Province Network
+101.68.118.95:9090,101.68.118.95,9090,http,,,CN,Hangzhou,http://101.68.118.95:9090,CHINA UNICOM China169 Backbone
+120.77.217.115:9090,120.77.217.115,9090,http,,,CN,Hangzhou,http://120.77.217.115:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+27.11.86.247:9090,27.11.86.247,9090,http,,,CN,Chongqing,http://27.11.86.247:9090,CHINA UNICOM China169 Backbone
+101.71.239.129:9090,101.71.239.129,9090,http,,,CN,Hangzhou,http://101.71.239.129:9090,CHINA UNICOM China169 Backbone
+61.52.173.181:9090,61.52.173.181,9090,http,,,CN,Zhengzhou,http://61.52.173.181:9090,CHINA UNICOM China169 Backbone
+103.91.208.6:9090,103.91.208.6,9090,http,,,CN,Jinan,http://103.91.208.6:9090,"Shandong eshinton Network Technology Co., Ltd."
+122.195.183.106:9090,122.195.183.106,9090,http,,,CN,Suqian,http://122.195.183.106:9090,CHINA UNICOM China169 Backbone
+113.56.128.109:9090,113.56.128.109,9090,http,,,CN,Shiyan,http://113.56.128.109:9090,CHINA UNICOM China169 Backbone
+139.196.102.196:9090,139.196.102.196,9090,http,,,CN,Shanghai,http://139.196.102.196:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+14.19.138.140:9090,14.19.138.140,9090,http,,,CN,Guangzhou,http://14.19.138.140:9090,Chinanet
+101.37.175.89:9090,101.37.175.89,9090,http,,,CN,Hangzhou,http://101.37.175.89:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+114.245.109.142:9090,114.245.109.142,9090,http,,,CN,Beijing,http://114.245.109.142:9090,China Unicom Beijing Province Network
+111.196.131.130:9090,111.196.131.130,9090,http,,,CN,Beijing,http://111.196.131.130:9090,China Unicom Beijing Province Network
+180.158.52.75:9090,180.158.52.75,9090,http,,,CN,Shanghai,http://180.158.52.75:9090,China Telecom Group
+1.197.140.146:9090,1.197.140.146,9090,http,,,CN,Xuchang,http://1.197.140.146:9090,Chinanet
+47.236.116.176:9090,47.236.116.176,9090,http,,,SG,Singapore,http://47.236.116.176:9090,"Alibaba US Technology Co., Ltd."
+115.200.15.239:9090,115.200.15.239,9090,http,,,CN,Hangzhou,http://115.200.15.239:9090,Chinanet
+119.119.99.242:9090,119.119.99.242,9090,http,,,CN,Shenyang,http://119.119.99.242:9090,CHINA UNICOM China169 Backbone
+14.19.165.70:9090,14.19.165.70,9090,http,,,CN,Guangzhou,http://14.19.165.70:9090,Chinanet
+125.119.226.211:9090,125.119.226.211,9090,http,,,CN,Hangzhou,http://125.119.226.211:9090,Chinanet
+118.31.33.112:9090,118.31.33.112,9090,http,,,CN,Hangzhou,http://118.31.33.112:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+58.41.6.178:9090,58.41.6.178,9090,http,,,CN,Shanghai,http://58.41.6.178:9090,China Telecom Group
+183.173.250.2:9090,183.173.250.2,9090,http,,,CN,Beijing,http://183.173.250.2:9090,China Education and Research Network Center
+27.11.88.41:9090,27.11.88.41,9090,http,,,CN,Chongqing,http://27.11.88.41:9090,CHINA UNICOM China169 Backbone
+180.110.139.120:9090,180.110.139.120,9090,http,,,CN,Nanjing,http://180.110.139.120:9090,Chinanet
+218.1.137.196:9090,218.1.137.196,9090,http,,,CN,Shanghai,http://218.1.137.196:9090,China Telecom Group
+60.179.37.56:9090,60.179.37.56,9090,http,,,CN,Ningbo,http://60.179.37.56:9090,Chinanet
+121.199.42.159:9090,121.199.42.159,9090,http,,,CN,Hangzhou,http://121.199.42.159:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+112.255.110.73:9090,112.255.110.73,9090,http,,,CN,Qingdao,http://112.255.110.73:9090,CHINA UNICOM China169 Backbone
+106.55.174.14:9090,106.55.174.14,9090,http,,,CN,Beijing,http://106.55.174.14:9090,Shenzhen Tencent Computer Systems Company Limited
+58.56.44.54:9090,58.56.44.54,9090,http,,,CN,Jinan,http://58.56.44.54:9090,Chinanet
+58.37.153.186:9090,58.37.153.186,9090,http,,,CN,Shanghai,http://58.37.153.186:9090,China Telecom Group
+116.231.241.233:9090,116.231.241.233,9090,http,,,CN,Shanghai,http://116.231.241.233:9090,China Telecom Group
+119.91.212.64:9090,119.91.212.64,9090,http,,,CN,Beijing,http://119.91.212.64:9090,Shenzhen Tencent Computer Systems Company Limited
+221.218.214.201:9090,221.218.214.201,9090,http,,,CN,Beijing,http://221.218.214.201:9090,China Unicom Beijing Province Network
+49.65.100.220:9090,49.65.100.220,9090,http,,,CN,Nanjing,http://49.65.100.220:9090,CHINANET Nanjing Jishan IDC network
+106.75.241.40:9090,106.75.241.40,9090,http,,,CN,Shanghai,http://106.75.241.40:9090,China Telecom Group
+123.10.38.21:9090,123.10.38.21,9090,http,,,CN,Shangqiu,http://123.10.38.21:9090,CHINA UNICOM China169 Backbone
+183.173.128.60:9090,183.173.128.60,9090,http,,,CN,Beijing,http://183.173.128.60:9090,China Education and Research Network Center
+117.85.56.214:9090,117.85.56.214,9090,http,,,CN,Wuxi,http://117.85.56.214:9090,Chinanet
+60.165.201.25:9090,60.165.201.25,9090,http,,,CN,Longnan,http://60.165.201.25:9090,Chinanet
+120.26.116.42:9090,120.26.116.42,9090,http,,,CN,Hangzhou,http://120.26.116.42:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+14.117.207.178:9090,14.117.207.178,9090,http,,,CN,Jiangmen,http://14.117.207.178:9090,Chinanet
+222.169.155.123:9191,222.169.155.123,9191,http,,,CN,Baishan,http://222.169.155.123:9191,Chinanet
+182.130.231.236:9090,182.130.231.236,9090,http,,,CN,Luzhou,http://182.130.231.236:9090,CHINATELECOM SiChuan province Luzhou 5G network
+106.59.8.196:9090,106.59.8.196,9090,http,,,CN,Kunming,http://106.59.8.196:9090,Chinanet
+43.136.85.105:9090,43.136.85.105,9090,http,,,CN,Beijing,http://43.136.85.105:9090,Shenzhen Tencent Computer Systems Company Limited
+221.228.10.76:9090,221.228.10.76,9090,http,,,CN,Wuxi,http://221.228.10.76:9090,Chinanet
+125.33.91.120:9090,125.33.91.120,9090,http,,,CN,Beijing,http://125.33.91.120:9090,China Unicom Beijing Province Network
+116.52.29.200:9090,116.52.29.200,9090,http,,,CN,Kunming,http://116.52.29.200:9090,Chinanet
+114.219.31.247:9090,114.219.31.247,9090,http,,,CN,Suzhou,http://114.219.31.247:9090,Chinanet
+112.84.76.8:9090,112.84.76.8,9090,http,,,CN,Xuzhou,http://112.84.76.8:9090,CHINA UNICOM China169 Backbone
+124.230.96.141:9090,124.230.96.141,9090,http,,,CN,Shaoyang,http://124.230.96.141:9090,Chinanet
+49.75.12.120:9090,49.75.12.120,9090,http,,,CN,Suzhou,http://49.75.12.120:9090,CHINATELECOM Jiangsu province Suzhou 5G network
+175.161.54.27:9090,175.161.54.27,9090,http,,,CN,Shenyang,http://175.161.54.27:9090,CHINA UNICOM China169 Backbone
+27.10.105.54:9090,27.10.105.54,9090,http,,,CN,Chongqing,http://27.10.105.54:9090,CHINA UNICOM China169 Backbone
+117.85.153.188:9090,117.85.153.188,9090,http,,,CN,Wuxi,http://117.85.153.188:9090,Chinanet
+101.6.43.134:9090,101.6.43.134,9090,http,,,CN,Beijing,http://101.6.43.134:9090,China Education and Research Network Center
+125.119.97.86:9090,125.119.97.86,9090,http,,,CN,Hangzhou,http://125.119.97.86:9090,Chinanet
+59.172.48.5:9090,59.172.48.5,9090,http,,,CN,Wuhan,http://59.172.48.5:9090,Chinanet
+34.238.84.159:9090,34.238.84.159,9090,http,,,US,Ashburn,http://34.238.84.159:9090,AMAZON-AES
+112.125.16.110:9090,112.125.16.110,9090,http,,,CN,Beijing,http://112.125.16.110:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+139.196.194.141:9090,139.196.194.141,9090,http,,,CN,Shanghai,http://139.196.194.141:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+124.221.26.169:9090,124.221.26.169,9090,http,,,CN,Beijing,http://124.221.26.169:9090,Shenzhen Tencent Computer Systems Company Limited
+182.149.100.25:9090,182.149.100.25,9090,http,,,CN,Chengdu,http://182.149.100.25:9090,Chinanet
+125.118.248.50:9090,125.118.248.50,9090,http,,,CN,Hangzhou,http://125.118.248.50:9090,Chinanet
+1.94.134.92:9090,1.94.134.92,9090,http,,,CN,Beijing,http://1.94.134.92:9090,
+220.192.18.21:9090,220.192.18.21,9090,http,,,CN,Tianjin,http://220.192.18.21:9090,CHINA UNICOM China169 Backbone
+192.144.128.48:9090,192.144.128.48,9090,http,,,CN,Beijing,http://192.144.128.48:9090,Shenzhen Tencent Computer Systems Company Limited
+115.230.124.120:9090,115.230.124.120,9090,http,,,CN,Shaoxing,http://115.230.124.120:9090,CT-HangZhou-IDC
+https://222.67.187.122:9090,222.67.187.122,9090,https,,,CN,Shanghai,https://222.67.187.122:9090,China Telecom Group
+106.52.118.48:9090,106.52.118.48,9090,http,,,CN,Beijing,http://106.52.118.48:9090,Shenzhen Tencent Computer Systems Company Limited
+129.204.42.218:9090,129.204.42.218,9090,http,,,CN,Beijing,http://129.204.42.218:9090,Shenzhen Tencent Computer Systems Company Limited
+218.88.86.95:9090,218.88.86.95,9090,http,,,CN,Chengdu,http://218.88.86.95:9090,Chinanet
+220.184.200.150:9090,220.184.200.150,9090,http,,,CN,Hangzhou,http://220.184.200.150:9090,Chinanet
+27.154.222.167:9090,27.154.222.167,9090,http,,,CN,Xiamen,http://27.154.222.167:9090,Chinanet
+123.116.119.165:9090,123.116.119.165,9090,http,,,CN,Beijing,http://123.116.119.165:9090,China Unicom Beijing Province Network
+125.109.93.182:9090,125.109.93.182,9090,http,,,CN,Wenzhou,http://125.109.93.182:9090,Chinanet
+112.114.202.50:9090,112.114.202.50,9090,http,,,CN,Kunming,http://112.114.202.50:9090,Chinanet
+219.142.148.15:9100,219.142.148.15,9100,http,,,CN,Beijing,http://219.142.148.15:9100,China Networks Inter-Exchange
+36.33.175.42:9090,36.33.175.42,9090,http,,,CN,Ma'anshan,http://36.33.175.42:9090,CHINA UNICOM China169 Backbone
+175.44.42.32:9090,175.44.42.32,9090,http,,,CN,Putian,http://175.44.42.32:9090,CHINA UNICOM China169 Backbone
+117.72.75.235:9090,117.72.75.235,9090,http,,,CN,Beijing,http://117.72.75.235:9090,
+112.124.60.138:9090,112.124.60.138,9090,http,,,CN,Hangzhou,http://112.124.60.138:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+139.129.23.108:6010,139.129.23.108,6010,http,,,CN,Qingdao,http://139.129.23.108:6010,"Hangzhou Alibaba Advertising Co.,Ltd."
+125.109.122.49:9090,125.109.122.49,9090,http,,,CN,Wenzhou,http://125.109.122.49:9090,Chinanet
+101.37.12.44:9090,101.37.12.44,9090,http,,,CN,Hangzhou,http://101.37.12.44:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+119.4.54.237:9090,119.4.54.237,9090,http,,,CN,Mianyang,http://119.4.54.237:9090,CHINA UNICOM China169 Backbone
+175.44.42.7:9090,175.44.42.7,9090,http,,,CN,Putian,http://175.44.42.7:9090,CHINA UNICOM China169 Backbone
+14.134.156.243:9090,14.134.156.243,9090,http,,,CN,Wuzhong,http://14.134.156.243:9090,Chinanet
+58.48.201.148:6002,58.48.201.148,6002,http,,,CN,Wuhan,http://58.48.201.148:6002,Chinanet
+113.87.173.93:9090,113.87.173.93,9090,http,,,CN,Shenzhen,http://113.87.173.93:9090,Chinanet
+112.64.220.222:9090,112.64.220.222,9090,http,,,CN,Shanghai,http://112.64.220.222:9090,China Unicom Shanghai network
+119.123.177.172:9090,119.123.177.172,9090,http,,,CN,Shenzhen,http://119.123.177.172:9090,Chinanet
+101.133.226.130:9090,101.133.226.130,9090,http,,,CN,Hangzhou,http://101.133.226.130:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+113.206.34.188:9090,113.206.34.188,9090,http,,,CN,Chongqing,http://113.206.34.188:9090,CHINA UNICOM China169 Backbone
+81.70.192.190:9090,81.70.192.190,9090,http,,,CN,Beijing,http://81.70.192.190:9090,Shenzhen Tencent Computer Systems Company Limited
+115.220.238.53:9090,115.220.238.53,9090,http,,,CN,Ningbo,http://115.220.238.53:9090,Chinanet
+202.38.72.235:9090,202.38.72.235,9090,http,,,CN,Hefei,http://202.38.72.235:9090,China Education and Research Network Center
+114.116.218.26:9090,114.116.218.26,9090,http,,,CN,Beijing,http://114.116.218.26:9090,China Unicom Beijing Province Network
+117.72.16.157:9090,117.72.16.157,9090,http,,,CN,Beijing,http://117.72.16.157:9090,China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch
+183.129.73.26:9090,183.129.73.26,9090,http,,,CN,Hangzhou,http://183.129.73.26:9090,Chinanet
+27.16.244.24:9090,27.16.244.24,9090,http,,,CN,Wuhan,http://27.16.244.24:9090,Chinanet
+219.140.225.194:9090,219.140.225.194,9090,http,,,CN,Wuhan,http://219.140.225.194:9090,Chinanet
+111.163.90.17:9090,111.163.90.17,9090,http,,,CN,Tianjin,http://111.163.90.17:9090,CHINA UNICOM China169 Backbone
+171.12.243.160:9090,171.12.243.160,9090,http,,,CN,Zhumadian,http://171.12.243.160:9090,Chinanet
+221.239.141.205:9090,221.239.141.205,9090,http,,,CN,Shanghai,http://221.239.141.205:9090,China Telecom Group
+122.97.190.181:9090,122.97.190.181,9090,http,,,CN,Nanjing,http://122.97.190.181:9090,CHINA UNICOM China169 Backbone
+47.119.180.187:9091,47.119.180.187,9091,http,,,CN,Shenzhen,http://47.119.180.187:9091,"Hangzhou Alibaba Advertising Co.,Ltd."
+222.70.49.198:9090,222.70.49.198,9090,http,,,CN,Shanghai,http://222.70.49.198:9090,China Telecom Group
+1.117.139.210:9090,1.117.139.210,9090,http,,,CN,Beijing,http://1.117.139.210:9090,Shenzhen Tencent Computer Systems Company Limited
+124.77.14.90:9090,124.77.14.90,9090,http,,,CN,Shanghai,http://124.77.14.90:9090,China Telecom Group
+125.92.100.96:9090,125.92.100.96,9090,http,,,CN,Jiangmen,http://125.92.100.96:9090,Chinanet
+106.52.28.62:9090,106.52.28.62,9090,http,,,CN,Beijing,http://106.52.28.62:9090,Shenzhen Tencent Computer Systems Company Limited
+14.155.223.114:9090,14.155.223.114,9090,http,,,CN,Shenzhen,http://14.155.223.114:9090,Chinanet
+58.50.143.173:9090,58.50.143.173,9090,http,,,CN,Yichang,http://58.50.143.173:9090,Chinanet
+118.25.47.91:9090,118.25.47.91,9090,http,,,CN,Beijing,http://118.25.47.91:9090,Shenzhen Tencent Computer Systems Company Limited
+180.158.132.144:9090,180.158.132.144,9090,http,,,CN,Shanghai,http://180.158.132.144:9090,China Telecom Group
+106.122.192.17:9090,106.122.192.17,9090,http,,,CN,Guangzhou,http://106.122.192.17:9090,Chinanet
+124.220.54.122:9090,124.220.54.122,9090,http,,,CN,Beijing,http://124.220.54.122:9090,Shenzhen Tencent Computer Systems Company Limited
+60.26.3.76:9090,60.26.3.76,9090,http,,,CN,Tianjin,http://60.26.3.76:9090,CHINA UNICOM China169 Backbone
+114.239.146.247:9090,114.239.146.247,9090,http,,,CN,Suqian,http://114.239.146.247:9090,Chinanet
+115.195.126.146:9090,115.195.126.146,9090,http,,,CN,Hangzhou,http://115.195.126.146:9090,Chinanet
+117.72.114.36:9090,117.72.114.36,9090,http,,,CN,Beijing,http://117.72.114.36:9090,
+183.159.173.139:9090,183.159.173.139,9090,http,,,CN,Hangzhou,http://183.159.173.139:9090,Chinanet
+180.154.64.187:9090,180.154.64.187,9090,http,,,CN,Shanghai,http://180.154.64.187:9090,China Telecom Group
+116.149.12.135:9090,116.149.12.135,9090,http,,,CN,Beijing,http://116.149.12.135:9090,CHINA UNICOM China169 Backbone
+117.72.107.75:9090,117.72.107.75,9090,http,,,CN,Beijing,http://117.72.107.75:9090,
+122.51.140.232:9090,122.51.140.232,9090,http,,,CN,Beijing,http://122.51.140.232:9090,Shenzhen Tencent Computer Systems Company Limited
+175.0.97.43:9090,175.0.97.43,9090,http,,,CN,Changsha,http://175.0.97.43:9090,Chinanet
+182.148.79.110:9090,182.148.79.110,9090,http,,,CN,Chengdu,http://182.148.79.110:9090,Chinanet
+113.67.179.197:9090,113.67.179.197,9090,http,,,CN,Guangzhou,http://113.67.179.197:9090,Chinanet
+125.46.107.46:9090,125.46.107.46,9090,http,,,CN,Zhengzhou,http://125.46.107.46:9090,CHINA UNICOM China169 Backbone
+125.37.161.163:9090,125.37.161.163,9090,http,,,CN,Tianjin,http://125.37.161.163:9090,CHINA UNICOM China169 Backbone
+27.12.136.137:9090,27.12.136.137,9090,http,,,CN,Chongqing,http://27.12.136.137:9090,CHINA UNICOM China169 Backbone
+202.189.6.16:9090,202.189.6.16,9090,http,,,CN,Jinan,http://202.189.6.16:9090,"Shandong eshinton Network Technology Co., Ltd."
+103.242.175.119:9091,103.242.175.119,9091,http,,,CN,Beijing,http://103.242.175.119:9091,China Unicom Beijing Province Network
+42.232.82.235:9090,42.232.82.235,9090,http,,,CN,Nanyang,http://42.232.82.235:9090,CHINA UNICOM China169 Backbone
+125.34.50.218:9090,125.34.50.218,9090,http,,,CN,Beijing,http://125.34.50.218:9090,China Unicom Beijing Province Network
+124.90.28.123:9090,124.90.28.123,9090,http,,,CN,Hangzhou,http://124.90.28.123:9090,CHINA UNICOM China169 Backbone
+110.87.104.144:9090,110.87.104.144,9090,http,,,CN,Xiamen,http://110.87.104.144:9090,Chinanet
+42.193.192.105:9090,42.193.192.105,9090,http,,,CN,Beijing,http://42.193.192.105:9090,Shenzhen Tencent Computer Systems Company Limited
+114.239.146.221:9090,114.239.146.221,9090,http,,,CN,Suqian,http://114.239.146.221:9090,Chinanet
+114.239.146.232:9090,114.239.146.232,9090,http,,,CN,Suqian,http://114.239.146.232:9090,Chinanet
+125.111.243.226:9090,125.111.243.226,9090,http,,,CN,Ningbo,http://125.111.243.226:9090,Chinanet
+117.28.118.208:9090,117.28.118.208,9090,http,,,CN,Xiamen,http://117.28.118.208:9090,Chinanet
+47.102.201.175:9090,47.102.201.175,9090,http,,,CN,Hangzhou,http://47.102.201.175:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+118.120.175.25:9090,118.120.175.25,9090,http,,,CN,Luzhou,http://118.120.175.25:9090,CHINATELECOM SiChuan province Luzhou 5G network
+211.142.17.78:9090,211.142.17.78,9090,http,,,CN,Taiyuan,http://211.142.17.78:9090,China Mobile communications corporation
+202.55.240.54:9090,202.55.240.54,9090,http,,,CN,Taipei,http://202.55.240.54:9090,AboveNet Communications Taiwan
+124.90.28.107:9090,124.90.28.107,9090,http,,,CN,Hangzhou,http://124.90.28.107:9090,CHINA UNICOM China169 Backbone
+8.149.130.197:9090,8.149.130.197,9090,http,,,CN,Hangzhou,http://8.149.130.197:9090,
+117.72.118.104:9090,117.72.118.104,9090,http,,,CN,Beijing,http://117.72.118.104:9090,
+115.195.75.44:9090,115.195.75.44,9090,http,,,CN,Hangzhou,http://115.195.75.44:9090,Chinanet
+112.126.76.91:9090,112.126.76.91,9090,http,,,CN,Beijing,http://112.126.76.91:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+14.19.205.141:9090,14.19.205.141,9090,http,,,CN,Guangzhou,http://14.19.205.141:9090,Chinanet
+112.132.235.190:9090,112.132.235.190,9090,http,,,CN,Huaibei,http://112.132.235.190:9090,CHINA UNICOM China169 Backbone
+47.106.146.118:9090,47.106.146.118,9090,http,,,CN,Shenzhen,http://47.106.146.118:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+118.121.63.169:9090,118.121.63.169,9090,http,,,CN,Chengdu,http://118.121.63.169:9090,CHINANET SiChuan Telecom Internet Data Center
+183.148.46.206:9090,183.148.46.206,9090,http,,,CN,Taizhou,http://183.148.46.206:9090,Chinanet
+153.99.56.167:8890,153.99.56.167,8890,http,,,CN,Huai'an,http://153.99.56.167:8890,CHINA UNICOM China169 Backbone
+https://117.72.13.77:9091,117.72.13.77,9091,https,,,CN,Beijing,https://117.72.13.77:9091,China Telecom Beijing Tianjin Hebei Big Data Industry Park Branch
+180.102.20.235:9093,180.102.20.235,9093,http,,,CN,Nanjing,http://180.102.20.235:9093,CHINANET Nanjing Jishan IDC network
+106.120.14.175:9999,106.120.14.175,9999,http,,,CN,Beijing,http://106.120.14.175:9999,China Networks Inter-Exchange
+8.130.54.56:9090,8.130.54.56,9090,http,,,CN,Beijing,http://8.130.54.56:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+14.155.197.83:9090,14.155.197.83,9090,http,,,CN,Shenzhen,http://14.155.197.83:9090,Chinanet
+117.90.15.124:7010,117.90.15.124,7010,http,,,CN,Zhenjiang,http://117.90.15.124:7010,Chinanet
+139.199.180.243:9999,139.199.180.243,9999,http,,,CN,Beijing,http://139.199.180.243:9999,Shenzhen Tencent Computer Systems Company Limited
+101.42.235.112:9999,101.42.235.112,9999,http,,,CN,Beijing,http://101.42.235.112:9999,Shenzhen Tencent Computer Systems Company Limited
+218.72.75.253:9999,218.72.75.253,9999,http,,,CN,Hangzhou,http://218.72.75.253:9999,Chinanet
+162.14.75.238:9999,162.14.75.238,9999,http,,,CN,Beijing,http://162.14.75.238:9999,Shenzhen Tencent Computer Systems Company Limited
+183.92.78.68:9999,183.92.78.68,9999,http,,,CN,Shiyan,http://183.92.78.68:9999,CHINA UNICOM China169 Backbone
+121.4.83.147:9999,121.4.83.147,9999,http,,,CN,Beijing,http://121.4.83.147:9999,Shenzhen Tencent Computer Systems Company Limited
+113.45.2.254:9999,113.45.2.254,9999,http,,,CN,Guangzhou,http://113.45.2.254:9999,
+42.192.44.37:9999,42.192.44.37,9999,http,,,CN,Beijing,http://42.192.44.37:9999,Shenzhen Tencent Computer Systems Company Limited
+112.193.99.37:9999,112.193.99.37,9999,http,,,CN,Chengdu,http://112.193.99.37:9999,CHINA UNICOM China169 Backbone
+14.19.168.13:9999,14.19.168.13,9999,http,,,CN,Guangzhou,http://14.19.168.13:9999,Chinanet
+114.100.31.216:9999,114.100.31.216,9999,http,,,CN,Fuyang,http://114.100.31.216:9999,Chinanet
+27.157.54.209:30006,27.157.54.209,30006,http,,,CN,Zhangzhou,http://27.157.54.209:30006,Chinanet
+161.189.76.28:9999,161.189.76.28,9999,http,,,CN,Yinchuan,http://161.189.76.28:9999,Ningxia West Cloud Data Technology Co.Ltd.
+52.187.5.16:9008,52.187.5.16,9008,http,,,SG,Singapore,http://52.187.5.16:9008,MICROSOFT-CORP-MSN-AS-BLOCK
+36.249.160.237:9090,36.249.160.237,9090,http,,,CN,Xiamen,http://36.249.160.237:9090,CHINA UNICOM China169 Backbone
+47.97.4.188:9990,47.97.4.188,9990,http,,,CN,Hangzhou,http://47.97.4.188:9990,"Hangzhou Alibaba Advertising Co.,Ltd."
+180.102.16.183:9091,180.102.16.183,9091,http,,,CN,Nanjing,http://180.102.16.183:9091,CHINANET Nanjing Jishan IDC network
+members.linshuxu.synology.me:9090,222.211.225.135,9090,http,,linshuxu.synology.me,CN,Chengdu,http://members.linshuxu.synology.me:9090,Chinanet
+drupal.linshuxu.synology.me:9090,222.211.225.135,9090,http,,linshuxu.synology.me,CN,Chengdu,http://drupal.linshuxu.synology.me:9090,Chinanet
+facebook.linshuxu.synology.me:9090,222.211.225.135,9090,http,,linshuxu.synology.me,CN,Chengdu,http://facebook.linshuxu.synology.me:9090,Chinanet
+ms.linshuxu.synology.me:9090,222.211.225.135,9090,http,,linshuxu.synology.me,CN,Chengdu,http://ms.linshuxu.synology.me:9090,Chinanet
+101.43.250.192:8181,101.43.250.192,8181,http,,,CN,Beijing,http://101.43.250.192:8181,Shenzhen Tencent Computer Systems Company Limited
+42.192.223.27:9090,42.192.223.27,9090,http,,,CN,Beijing,http://42.192.223.27:9090,Shenzhen Tencent Computer Systems Company Limited
+43.139.155.247:9090,43.139.155.247,9090,http,,,CN,Beijing,http://43.139.155.247:9090,Shenzhen Tencent Computer Systems Company Limited
+43.143.49.195:9999,43.143.49.195,9999,http,,,CN,Beijing,http://43.143.49.195:9999,Shenzhen Tencent Computer Systems Company Limited
+221.14.153.233:8020,221.14.153.233,8020,http,,,CN,Xuchang,http://221.14.153.233:8020,CHINA UNICOM China169 Backbone
+119.45.6.168:9090,119.45.6.168,9090,http,,,CN,Beijing,http://119.45.6.168:9090,Shenzhen Tencent Computer Systems Company Limited
+123.57.76.171:9090,123.57.76.171,9090,http,,,CN,Hangzhou,http://123.57.76.171:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+124.221.151.72:9090,124.221.151.72,9090,http,,,CN,Beijing,http://124.221.151.72:9090,Shenzhen Tencent Computer Systems Company Limited
+120.76.196.23:9090,120.76.196.23,9090,http,,,CN,Shenzhen,http://120.76.196.23:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+220.184.201.97:9090,220.184.201.97,9090,http,,,CN,Hangzhou,http://220.184.201.97:9090,Chinanet
+124.90.27.171:9090,124.90.27.171,9090,http,,,CN,Hangzhou,http://124.90.27.171:9090,CHINA UNICOM China169 Backbone
+111.163.90.166:9090,111.163.90.166,9090,http,,,CN,Tianjin,http://111.163.90.166:9090,CHINA UNICOM China169 Backbone
+125.122.94.223:9090,125.122.94.223,9090,http,,,CN,Hangzhou,http://125.122.94.223:9090,Chinanet
+121.199.25.64:9090,121.199.25.64,9090,http,,,CN,Hangzhou,http://121.199.25.64:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+183.172.18.115:9090,183.172.18.115,9090,http,,,CN,Beijing,http://183.172.18.115:9090,China Education and Research Network Center
+124.222.156.228:9090,124.222.156.228,9090,http,,,CN,Beijing,http://124.222.156.228:9090,Shenzhen Tencent Computer Systems Company Limited
+124.222.130.202:9090,124.222.130.202,9090,http,,,CN,Beijing,http://124.222.130.202:9090,Shenzhen Tencent Computer Systems Company Limited
+110.42.36.77:9090,110.42.36.77,9090,http,,,CN,Ningbo,http://110.42.36.77:9090,"NINGBO, ZHEJIANG Province, P.R.China."
+60.191.150.161:9090,60.191.150.161,9090,http,,,CN,Taizhou,http://60.191.150.161:9090,Chinanet
+121.196.109.227:9090,121.196.109.227,9090,http,,,CN,Hangzhou,http://121.196.109.227:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+159.75.183.92:9090,159.75.183.92,9090,http,,,CN,Beijing,http://159.75.183.92:9090,Shenzhen Tencent Computer Systems Company Limited
+171.115.223.148:9090,171.115.223.148,9090,http,,,CN,Shiyan,http://171.115.223.148:9090,Chinanet
+121.40.51.206:9090,121.40.51.206,9090,http,,,CN,Hangzhou,http://121.40.51.206:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+112.132.232.3:9090,112.132.232.3,9090,http,,,CN,Huaibei,http://112.132.232.3:9090,CHINA UNICOM China169 Backbone
+36.137.9.202:9090,36.137.9.202,9090,http,,,CN,Chengdu,http://36.137.9.202:9090,"China Mobile Communications Group Co., Ltd."
+125.92.103.81:9090,125.92.103.81,9090,http,,,CN,Jiangmen,http://125.92.103.81:9090,Chinanet
+159.75.175.218:9090,159.75.175.218,9090,http,,,CN,Beijing,http://159.75.175.218:9090,Shenzhen Tencent Computer Systems Company Limited
+27.18.216.239:9090,27.18.216.239,9090,http,,,CN,Wuhan,http://27.18.216.239:9090,Chinanet
+112.112.167.197:9090,112.112.167.197,9090,http,,,CN,Kunming,http://112.112.167.197:9090,Chinanet
+123.56.162.228:9090,123.56.162.228,9090,http,,,CN,Beijing,http://123.56.162.228:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+47.119.147.229:9090,47.119.147.229,9090,http,,,CN,Shenzhen,http://47.119.147.229:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+27.12.136.79:9090,27.12.136.79,9090,http,,,CN,Chongqing,http://27.12.136.79:9090,CHINA UNICOM China169 Backbone
+101.200.137.5:9090,101.200.137.5,9090,http,,,CN,Beijing,http://101.200.137.5:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+182.136.211.235:9090,182.136.211.235,9090,http,,,CN,Mianyang,http://182.136.211.235:9090,CHINATELECOM SiChuan province Chengdu 5G network
+115.216.7.130:9090,115.216.7.130,9090,http,,,CN,Ningbo,http://115.216.7.130:9090,Chinanet
+125.37.162.234:9090,125.37.162.234,9090,http,,,CN,Tianjin,http://125.37.162.234:9090,CHINA UNICOM China169 Backbone
+114.245.104.21:9090,114.245.104.21,9090,http,,,CN,Beijing,http://114.245.104.21:9090,China Unicom Beijing Province Network
+219.140.224.241:9090,219.140.224.241,9090,http,,,CN,Wuhan,http://219.140.224.241:9090,Chinanet
+115.120.247.133:9090,115.120.247.133,9090,http,,,CN,Guangzhou,http://115.120.247.133:9090,
+120.25.231.211:9090,120.25.231.211,9090,http,,,CN,Shenzhen,http://120.25.231.211:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+47.117.115.31:9090,47.117.115.31,9090,http,,,CN,Hangzhou,http://47.117.115.31:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+116.198.196.73:9090,116.198.196.73,9090,http,,,CN,Beijing,http://116.198.196.73:9090,CHINATELECOM Jiangsu Suqian IDC network
+101.35.45.103:9090,101.35.45.103,9090,http,,,CN,Beijing,http://101.35.45.103:9090,Shenzhen Tencent Computer Systems Company Limited
+106.120.13.49:9090,106.120.13.49,9090,http,,,CN,Beijing,http://106.120.13.49:9090,China Networks Inter-Exchange
+110.42.238.113:9090,110.42.238.113,9090,http,,,CN,Beijing,http://110.42.238.113:9090,Shenzhen Tencent Computer Systems Company Limited
+124.222.140.243:9090,124.222.140.243,9090,http,,,CN,Beijing,http://124.222.140.243:9090,Shenzhen Tencent Computer Systems Company Limited
+150.158.129.254:9090,150.158.129.254,9090,http,,,CN,Beijing,http://150.158.129.254:9090,Shenzhen Tencent Computer Systems Company Limited
+124.126.186.181:9090,124.126.186.181,9090,http,,,CN,Beijing,http://124.126.186.181:9090,China Networks Inter-Exchange
+119.4.55.26:9090,119.4.55.26,9090,http,,,CN,Mianyang,http://119.4.55.26:9090,CHINA UNICOM China169 Backbone
+101.33.242.94:9090,101.33.242.94,9090,http,,,CN,Beijing,http://101.33.242.94:9090,Shenzhen Tencent Computer Systems Company Limited
+101.5.200.114:9090,101.5.200.114,9090,http,,,CN,Beijing,http://101.5.200.114:9090,China Education and Research Network Center
+36.35.139.23:9090,36.35.139.23,9090,http,,,CN,Chuzhou,http://36.35.139.23:9090,CHINA UNICOM China169 Backbone
+101.34.52.2:9090,101.34.52.2,9090,http,,,CN,Beijing,http://101.34.52.2:9090,Shenzhen Tencent Computer Systems Company Limited
+180.100.206.221:9090,180.100.206.221,9090,http,,,CN,Nanjing,http://180.100.206.221:9090,Chinanet
+166.111.53.44:9090,166.111.53.44,9090,http,,,CN,Beijing,http://166.111.53.44:9090,China Education and Research Network Center
+113.78.252.75:9090,113.78.252.75,9090,http,,,CN,Dongguan,http://113.78.252.75:9090,Chinanet
+47.117.39.137:9090,47.117.39.137,9090,http,,,CN,Hangzhou,http://47.117.39.137:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+101.34.68.122:9090,101.34.68.122,9090,http,,,CN,Beijing,http://101.34.68.122:9090,Shenzhen Tencent Computer Systems Company Limited
+118.31.52.187:9090,118.31.52.187,9090,http,,,CN,Hangzhou,http://118.31.52.187:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+47.113.220.44:9090,47.113.220.44,9090,http,,,CN,Hangzhou,http://47.113.220.44:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+171.13.167.132:9090,171.13.167.132,9090,http,,,CN,Zhengzhou,http://171.13.167.132:9090,Chinanet
+119.91.226.126:9090,119.91.226.126,9090,http,,,CN,Beijing,http://119.91.226.126:9090,Shenzhen Tencent Computer Systems Company Limited
+125.114.114.205:9090,125.114.114.205,9090,http,,,CN,Ningbo,http://125.114.114.205:9090,Chinanet
+120.24.91.126:9090,120.24.91.126,9090,http,,,CN,Shenzhen,http://120.24.91.126:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+https://www.godsyu.com,39.96.46.96,443,https,,godsyu.com,CN,Beijing,https://www.godsyu.com,"Hangzhou Alibaba Advertising Co.,Ltd."
+107.148.146.145:9090,107.148.146.145,9090,http,,,US,San Jose,http://107.148.146.145:9090,PEGTECHINC-AP-02
+https://39.96.46.96,39.96.46.96,443,https,,,CN,Beijing,https://39.96.46.96,"Hangzhou Alibaba Advertising Co.,Ltd."
+39.107.30.7:9090,39.107.30.7,9090,http,,,CN,Hangzhou,http://39.107.30.7:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+60.26.3.40:9090,60.26.3.40,9090,http,,,CN,Tianjin,http://60.26.3.40:9090,CHINA UNICOM China169 Backbone
+150.158.54.7:9090,150.158.54.7,9090,http,,,CN,Beijing,http://150.158.54.7:9090,Shenzhen Tencent Computer Systems Company Limited
+116.62.238.166:9090,116.62.238.166,9090,http,,,CN,Hangzhou,http://116.62.238.166:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+101.6.102.160:9090,101.6.102.160,9090,http,,,CN,Beijing,http://101.6.102.160:9090,China Education and Research Network Center
+222.65.62.200:9090,222.65.62.200,9090,http,,,CN,Shanghai,http://222.65.62.200:9090,China Telecom Group
+101.200.140.225:9090,101.200.140.225,9090,http,,,CN,Beijing,http://101.200.140.225:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+47.109.206.92:9090,47.109.206.92,9090,http,,,CN,Hangzhou,http://47.109.206.92:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+47.92.170.88:9090,47.92.170.88,9090,http,,,CN,Beijing,http://47.92.170.88:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+116.235.223.133:9090,116.235.223.133,9090,http,,,CN,Shanghai,http://116.235.223.133:9090,China Telecom Group
+118.31.42.10:9090,118.31.42.10,9090,http,,,CN,Hangzhou,http://118.31.42.10:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+111.46.204.18:9090,111.46.204.18,9090,http,,,CN,Wuhan,http://111.46.204.18:9090,"China Mobile Communications Group Co., Ltd."
+47.116.1.123:9090,47.116.1.123,9090,http,,,CN,Shanghai,http://47.116.1.123:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+118.113.139.149:9091,118.113.139.149,9091,http,,,CN,Chengdu,http://118.113.139.149:9091,Chinanet
+166.111.185.174:9090,166.111.185.174,9090,http,,,CN,Beijing,http://166.111.185.174:9090,China Education and Research Network Center
+139.196.253.152:9090,139.196.253.152,9090,http,,,CN,Shanghai,http://139.196.253.152:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+220.250.30.56:9090,220.250.30.56,9090,http,,,CN,Fuzhou,http://220.250.30.56:9090,CHINA UNICOM China169 Backbone
+120.79.164.101:9090,120.79.164.101,9090,http,,,CN,Hangzhou,http://120.79.164.101:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+api.aed.5csss.com,61.133.125.37,80,http,,5csss.com,CN,Jinan,http://api.aed.5csss.com,CHINA UNICOM China169 Backbone
+166.111.72.174:9090,166.111.72.174,9090,http,,,CN,Beijing,http://166.111.72.174:9090,China Education and Research Network Center
+101.43.164.47:9090,101.43.164.47,9090,http,,,CN,Beijing,http://101.43.164.47:9090,Shenzhen Tencent Computer Systems Company Limited
+42.192.73.107:9090,42.192.73.107,9090,http,,,CN,Beijing,http://42.192.73.107:9090,Shenzhen Tencent Computer Systems Company Limited
+110.177.177.150:9090,110.177.177.150,9090,http,,,CN,Taiyuan,http://110.177.177.150:9090,Chinanet
+118.89.184.202:9090,118.89.184.202,9090,http,,,CN,Beijing,http://118.89.184.202:9090,Shenzhen Tencent Computer Systems Company Limited
+106.75.237.248:9090,106.75.237.248,9090,http,,,CN,Shanghai,http://106.75.237.248:9090,China Telecom Group
+124.222.49.35:9090,124.222.49.35,9090,http,,,CN,Beijing,http://124.222.49.35:9090,Shenzhen Tencent Computer Systems Company Limited
+8.134.148.199:9090,8.134.148.199,9090,http,,,CN,Guangzhou,http://8.134.148.199:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+39.108.97.86:9090,39.108.97.86,9090,http,,,CN,Shenzhen,http://39.108.97.86:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+120.53.124.46:9090,120.53.124.46,9090,http,,,CN,Beijing,http://120.53.124.46:9090,Shenzhen Tencent Computer Systems Company Limited
+117.68.196.64:9090,117.68.196.64,9090,http,,,CN,Hefei,http://117.68.196.64:9090,Chinanet
+101.228.123.74:9090,101.228.123.74,9090,http,,,CN,Shanghai,http://101.228.123.74:9090,China Telecom Group
+180.102.16.183:9093,180.102.16.183,9093,http,,,CN,Nanjing,http://180.102.16.183:9093,CHINANET Nanjing Jishan IDC network
+221.218.211.126:9090,221.218.211.126,9090,http,,,CN,Beijing,http://221.218.211.126:9090,China Unicom Beijing Province Network
+121.40.239.169:9090,121.40.239.169,9090,http,,,CN,Hangzhou,http://121.40.239.169:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+39.70.148.129:9090,39.70.148.129,9090,http,,,CN,Linyi,http://39.70.148.129:9090,CHINA UNICOM China169 Backbone
+b.zhengzijun.cn:9090,106.120.13.49,9090,http,,zhengzijun.cn,CN,Beijing,http://b.zhengzijun.cn:9090,China Networks Inter-Exchange
+47.93.4.108:9090,47.93.4.108,9090,http,,,CN,Hangzhou,http://47.93.4.108:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+zhengzijun.cn:9090,106.120.13.49,9090,http,,zhengzijun.cn,CN,Beijing,http://zhengzijun.cn:9090,China Networks Inter-Exchange
+116.198.46.129:9090,116.198.46.129,9090,http,,,CN,Beijing,http://116.198.46.129:9090,China Unicom Beijing Province Network
+139.199.176.168:9090,139.199.176.168,9090,http,,,CN,Beijing,http://139.199.176.168:9090,Shenzhen Tencent Computer Systems Company Limited
+113.87.186.11:9090,113.87.186.11,9090,http,,,CN,Shenzhen,http://113.87.186.11:9090,Chinanet
+118.113.158.187:9090,118.113.158.187,9090,http,,,CN,Chengdu,http://118.113.158.187:9090,Chinanet
+43.138.142.9:9090,43.138.142.9,9090,http,,,CN,Beijing,http://43.138.142.9:9090,Shenzhen Tencent Computer Systems Company Limited
+124.64.216.161:9090,124.64.216.161,9090,http,,,CN,Beijing,http://124.64.216.161:9090,China Unicom Beijing Province Network
+125.35.127.66:9090,125.35.127.66,9090,http,,,CN,Beijing,http://125.35.127.66:9090,China Unicom Beijing Province Network
+43.143.206.63:9090,43.143.206.63,9090,http,,,CN,Beijing,http://43.143.206.63:9090,Shenzhen Tencent Computer Systems Company Limited
+47.98.62.194:9090,47.98.62.194,9090,http,,,CN,Hangzhou,http://47.98.62.194:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+43.143.172.44:9090,43.143.172.44,9090,http,,,CN,Beijing,http://43.143.172.44:9090,Shenzhen Tencent Computer Systems Company Limited
+139.159.146.70:9090,139.159.146.70,9090,http,,,CN,Guangzhou,http://139.159.146.70:9090,Huawei Cloud Service data center
+59.110.227.62:9090,59.110.227.62,9090,http,,,CN,Beijing,http://59.110.227.62:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+118.25.22.100:9090,118.25.22.100,9090,http,,,CN,Beijing,http://118.25.22.100:9090,Shenzhen Tencent Computer Systems Company Limited
+123.120.3.78:9090,123.120.3.78,9090,http,,,CN,Beijing,http://123.120.3.78:9090,China Unicom Beijing Province Network
+60.204.232.126:9090,60.204.232.126,9090,http,,,CN,Guangzhou,http://60.204.232.126:9090,Huawei Cloud Service data center
+110.191.167.3:9090,110.191.167.3,9090,http,,,CN,Chengdu,http://110.191.167.3:9090,Chinanet
+81.70.165.21:9090,81.70.165.21,9090,http,,,CN,Beijing,http://81.70.165.21:9090,Shenzhen Tencent Computer Systems Company Limited
+36.48.28.133:9090,36.48.28.133,9090,http,,,CN,Changchun,http://36.48.28.133:9090,Chinanet
+58.37.171.136:9090,58.37.171.136,9090,http,,,CN,Shanghai,http://58.37.171.136:9090,China Telecom Group
+183.146.126.203:9090,183.146.126.203,9090,http,,,CN,Jinhua,http://183.146.126.203:9090,Chinanet
+106.15.199.119:9090,106.15.199.119,9090,http,,,CN,Hangzhou,http://106.15.199.119:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+115.214.165.54:9090,115.214.165.54,9090,http,,,CN,Ningbo,http://115.214.165.54:9090,Chinanet
+114.132.74.174:9090,114.132.74.174,9090,http,,,CN,Beijing,http://114.132.74.174:9090,Shenzhen Tencent Computer Systems Company Limited
+8.140.151.101:9090,8.140.151.101,9090,http,,,CN,Beijing,http://8.140.151.101:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+8.141.2.251:9090,8.141.2.251,9090,http,,,CN,Hangzhou,http://8.141.2.251:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+113.67.176.128:9090,113.67.176.128,9090,http,,,CN,Guangzhou,http://113.67.176.128:9090,Chinanet
+116.248.103.156:9090,116.248.103.156,9090,http,,,CN,Yuxi,http://116.248.103.156:9090,Chinanet
+103.163.46.74:9090,103.163.46.74,9090,http,,,CN,Hohhot,http://103.163.46.74:9090,Cloud Computing Corporation
+124.230.99.165:9090,124.230.99.165,9090,http,,,CN,Shaoyang,http://124.230.99.165:9090,Chinanet
+124.223.154.128:9090,124.223.154.128,9090,http,,,CN,Beijing,http://124.223.154.128:9090,Shenzhen Tencent Computer Systems Company Limited
+121.207.145.55:9090,121.207.145.55,9090,http,,,CN,Xiamen,http://121.207.145.55:9090,Chinanet
+genalp.com:9999,47.94.196.244,9999,http,,genalp.com,CN,Hangzhou,http://genalp.com:9999,"Hangzhou Alibaba Advertising Co.,Ltd."
+120.76.84.210:9090,120.76.84.210,9090,http,,,CN,Shenzhen,http://120.76.84.210:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+117.30.161.145:9090,117.30.161.145,9090,http,,,CN,Xiamen,http://117.30.161.145:9090,Chinanet
+47.243.159.99:9090,47.243.159.99,9090,http,,,US,San Mateo,http://47.243.159.99:9090,"Alibaba US Technology Co., Ltd."
+218.1.208.211:9090,218.1.208.211,9090,http,,,CN,Shanghai,http://218.1.208.211:9090,China Telecom Group
+113.56.128.183:9090,113.56.128.183,9090,http,,,CN,Shiyan,http://113.56.128.183:9090,CHINA UNICOM China169 Backbone
+8.134.101.255:9090,8.134.101.255,9090,http,,,CN,Guangzhou,http://8.134.101.255:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+139.9.193.25:9090,139.9.193.25,9090,http,,,CN,Guangzhou,http://139.9.193.25:9090,Huawei Cloud Service data center
+47.115.139.39:9090,47.115.139.39,9090,http,,,CN,Shenzhen,http://47.115.139.39:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+49.69.135.35:9090,49.69.135.35,9090,http,,,CN,Yancheng,http://49.69.135.35:9090,Chinanet
+https://49.235.72.110,49.235.72.110,443,https,,,CN,Beijing,https://49.235.72.110,Shenzhen Tencent Computer Systems Company Limited
+36.133.168.146:9090,36.133.168.146,9090,http,,,CN,Beijing,http://36.133.168.146:9090,"China Mobile Communications Group Co., Ltd."
+43.133.37.249:9090,43.133.37.249,9090,http,,,SG,Singapore,http://43.133.37.249:9090,"Tencent Building, Kejizhongyi Avenue"
+49.77.7.200:9090,49.77.7.200,9090,http,,,CN,Nanjing,http://49.77.7.200:9090,Chinanet
+49.83.52.211:9090,49.83.52.211,9090,http,,,CN,Yancheng,http://49.83.52.211:9090,Chinanet
+123.60.212.16:9090,123.60.212.16,9090,http,,,CN,Beijing,http://123.60.212.16:9090,Huawei Cloud Service data center
+116.248.100.8:9090,116.248.100.8,9090,http,,,CN,Yuxi,http://116.248.100.8:9090,Chinanet
+140.143.189.103:9090,140.143.189.103,9090,http,,,CN,Beijing,http://140.143.189.103:9090,Shenzhen Tencent Computer Systems Company Limited
+49.232.163.63:9090,49.232.163.63,9090,http,,,CN,Beijing,http://49.232.163.63:9090,Shenzhen Tencent Computer Systems Company Limited
+180.165.171.115:9090,180.165.171.115,9090,http,,,CN,Shanghai,http://180.165.171.115:9090,China Telecom Group
+118.25.186.192:9090,118.25.186.192,9090,http,,,CN,Beijing,http://118.25.186.192:9090,Shenzhen Tencent Computer Systems Company Limited
+101.42.43.99:9090,101.42.43.99,9090,http,,,CN,Beijing,http://101.42.43.99:9090,Shenzhen Tencent Computer Systems Company Limited
+106.54.196.209:9090,106.54.196.209,9090,http,,,CN,Beijing,http://106.54.196.209:9090,Shenzhen Tencent Computer Systems Company Limited
+43.156.169.17:9090,43.156.169.17,9090,http,,,SG,Singapore,http://43.156.169.17:9090,"Tencent Building, Kejizhongyi Avenue"
+8.147.132.196:9090,8.147.132.196,9090,http,,,CN,Hangzhou,http://8.147.132.196:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+121.199.50.71:9090,121.199.50.71,9090,http,,,CN,Hangzhou,http://121.199.50.71:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+49.65.101.160:9093,49.65.101.160,9093,http,,,CN,Nanjing,http://49.65.101.160:9093,CHINANET Nanjing Jishan IDC network
+47.102.125.30:9090,47.102.125.30,9090,http,,,CN,Hangzhou,http://47.102.125.30:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+110.7.129.191:9090,110.7.129.191,9090,http,,,CN,Baotou,http://110.7.129.191:9090,CHINA UNICOM China169 Backbone
+120.46.198.15:9090,120.46.198.15,9090,http,,,CN,Guangzhou,http://120.46.198.15:9090,Huawei Cloud Service data center
+124.222.83.117:9090,124.222.83.117,9090,http,,,CN,Beijing,http://124.222.83.117:9090,Shenzhen Tencent Computer Systems Company Limited
+119.91.218.128:9090,119.91.218.128,9090,http,,,CN,Beijing,http://119.91.218.128:9090,Shenzhen Tencent Computer Systems Company Limited
+115.204.72.191:9090,115.204.72.191,9090,http,,,CN,Hangzhou,http://115.204.72.191:9090,Chinanet
+112.255.97.12:9090,112.255.97.12,9090,http,,,CN,Qingdao,http://112.255.97.12:9090,CHINA UNICOM China169 Backbone
+117.72.126.34:9090,117.72.126.34,9090,http,,,CN,Beijing,http://117.72.126.34:9090,
+185.248.143.243:9090,185.248.143.243,9090,http,,,DE,Waldbrunn,http://185.248.143.243:9090,IP-Projects GmbH & Co. KG
+121.10.162.90:9090,121.10.162.90,9090,http,,,CN,Guangzhou,http://121.10.162.90:9090,Chinanet
+https://222.70.66.52:9090,222.70.66.52,9090,https,,,CN,Shanghai,https://222.70.66.52:9090,China Telecom Group
+1.94.41.239:9090,1.94.41.239,9090,http,,,CN,Beijing,http://1.94.41.239:9090,
+14.19.177.201:9090,14.19.177.201,9090,http,,,CN,Guangzhou,http://14.19.177.201:9090,Chinanet
+110.42.111.144:9090,110.42.111.144,9090,http,,,CN,Ningbo,http://110.42.111.144:9090,"NINGBO, ZHEJIANG Province, P.R.China."
+27.17.165.232:9090,27.17.165.232,9090,http,,,CN,Wuhan,http://27.17.165.232:9090,Chinanet
+8.137.101.196:9090,8.137.101.196,9090,http,,,CN,Chengdu,http://8.137.101.196:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+222.94.215.180:9090,222.94.215.180,9090,http,,,CN,Nanjing,http://222.94.215.180:9090,Chinanet
+official.xslink.cn:9090,8.134.18.139,9090,http,,xslink.cn,CN,Guangzhou,http://official.xslink.cn:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+101.43.108.87:9090,101.43.108.87,9090,http,,,CN,Beijing,http://101.43.108.87:9090,Shenzhen Tencent Computer Systems Company Limited
+81.70.36.87:9090,81.70.36.87,9090,http,,,CN,Beijing,http://81.70.36.87:9090,Shenzhen Tencent Computer Systems Company Limited
+139.155.236.28:9092,139.155.236.28,9092,http,,,CN,Beijing,http://139.155.236.28:9092,Shenzhen Tencent Computer Systems Company Limited
+101.35.234.14:9090,101.35.234.14,9090,http,,,CN,Beijing,http://101.35.234.14:9090,Shenzhen Tencent Computer Systems Company Limited
+125.122.16.110:9090,125.122.16.110,9090,http,,,CN,Hangzhou,http://125.122.16.110:9090,Chinanet
+175.166.116.148:9090,175.166.116.148,9090,http,,,CN,Chaoyang,http://175.166.116.148:9090,CHINA UNICOM China169 Backbone
+202.55.240.54:9092,202.55.240.54,9092,http,,,CN,Taipei,http://202.55.240.54:9092,AboveNet Communications Taiwan
+115.205.181.110:9090,115.205.181.110,9090,http,,,CN,Hangzhou,http://115.205.181.110:9090,Chinanet
+115.214.167.128:9090,115.214.167.128,9090,http,,,CN,Ningbo,http://115.214.167.128:9090,Chinanet
+124.220.8.149:9090,124.220.8.149,9090,http,,,CN,Beijing,http://124.220.8.149:9090,Shenzhen Tencent Computer Systems Company Limited
+47.115.171.104:9090,47.115.171.104,9090,http,,,CN,Shenzhen,http://47.115.171.104:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+81.68.232.254:9090,81.68.232.254,9090,http,,,CN,Beijing,http://81.68.232.254:9090,Shenzhen Tencent Computer Systems Company Limited
+114.132.67.16:9090,114.132.67.16,9090,http,,,CN,Beijing,http://114.132.67.16:9090,Shenzhen Tencent Computer Systems Company Limited
+42.233.40.250:9090,42.233.40.250,9090,http,,,CN,Xinxiang,http://42.233.40.250:9090,CHINA UNICOM China169 Backbone
+27.21.76.151:9090,27.21.76.151,9090,http,,,CN,Yichang,http://27.21.76.151:9090,Chinanet
+175.18.12.65:9090,175.18.12.65,9090,http,,,CN,Liaoyuan,http://175.18.12.65:9090,CHINA UNICOM China169 Backbone
+124.223.109.173:9090,124.223.109.173,9090,http,,,CN,Beijing,http://124.223.109.173:9090,Shenzhen Tencent Computer Systems Company Limited
+111.201.0.30:9090,111.201.0.30,9090,http,,,CN,Beijing,http://111.201.0.30:9090,China Unicom Beijing Province Network
+116.5.160.136:9090,116.5.160.136,9090,http,,,CN,Meizhou,http://116.5.160.136:9090,Chinanet
+111.230.10.146:9090,111.230.10.146,9090,http,,,CN,Beijing,http://111.230.10.146:9090,Shenzhen Tencent Computer Systems Company Limited
+221.211.218.222:9090,221.211.218.222,9090,http,,,CN,Daqing,http://221.211.218.222:9090,CHINA UNICOM China169 Backbone
+120.79.199.53:9090,120.79.199.53,9090,http,,,CN,Hangzhou,http://120.79.199.53:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+112.74.57.14:9090,112.74.57.14,9090,http,,,CN,Shenzhen,http://112.74.57.14:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+47.122.6.159:9090,47.122.6.159,9090,http,,,CN,Hangzhou,http://47.122.6.159:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+101.35.224.27:9090,101.35.224.27,9090,http,,,CN,Beijing,http://101.35.224.27:9090,Shenzhen Tencent Computer Systems Company Limited
+218.16.181.133:9090,218.16.181.133,9090,http,,,CN,Shantou,http://218.16.181.133:9090,Chinanet
+clash-api.william-swl.com.cn,101.42.6.9,80,http,,william-swl.com.cn,CN,Beijing,http://clash-api.william-swl.com.cn,Shenzhen Tencent Computer Systems Company Limited
+101.71.239.145:9090,101.71.239.145,9090,http,,,CN,Hangzhou,http://101.71.239.145:9090,CHINA UNICOM China169 Backbone
+43.139.50.140:9090,43.139.50.140,9090,http,,,CN,Beijing,http://43.139.50.140:9090,Shenzhen Tencent Computer Systems Company Limited
+https://clash-api.william-swl.com.cn,101.42.6.9,443,https,,william-swl.com.cn,CN,Beijing,https://clash-api.william-swl.com.cn,Shenzhen Tencent Computer Systems Company Limited
+122.97.190.220:9090,122.97.190.220,9090,http,,,CN,Nanjing,http://122.97.190.220:9090,CHINA UNICOM China169 Backbone
+8.134.18.139:9090,8.134.18.139,9090,http,,,CN,Guangzhou,http://8.134.18.139:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+180.109.221.104:9090,180.109.221.104,9090,http,,,CN,Nanjing,http://180.109.221.104:9090,Chinanet
+171.212.209.141:3092,171.212.209.141,3092,http,,,CN,Chengdu,http://171.212.209.141:3092,Chinanet
+47.100.85.153:9090,47.100.85.153,9090,http,,,CN,Shanghai,http://47.100.85.153:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+39.102.212.147:9090,39.102.212.147,9090,http,,,CN,Hangzhou,http://39.102.212.147:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+121.237.37.82:9090,121.237.37.82,9090,http,,,CN,Nanjing,http://121.237.37.82:9090,Chinanet
+183.173.10.159:9090,183.173.10.159,9090,http,,,CN,Beijing,http://183.173.10.159:9090,China Education and Research Network Center
+115.190.104.103:9090,115.190.104.103,9090,http,,,CN,Beijing,http://115.190.104.103:9090,
+115.205.92.141:9090,115.205.92.141,9090,http,,,CN,Hangzhou,http://115.205.92.141:9090,Chinanet
+114.55.67.5:9090,114.55.67.5,9090,http,,,CN,Hangzhou,http://114.55.67.5:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+116.229.187.136:9090,116.229.187.136,9090,http,,,CN,Shanghai,http://116.229.187.136:9090,China Telecom Group
+112.114.202.179:9090,112.114.202.179,9090,http,,,CN,Kunming,http://112.114.202.179:9090,Chinanet
+114.232.247.84:9090,114.232.247.84,9090,http,,,CN,Nantong,http://114.232.247.84:9090,Chinanet
+222.67.119.169:9090,222.67.119.169,9090,http,,,CN,Shanghai,http://222.67.119.169:9090,China Telecom Group
+112.74.60.125:9090,112.74.60.125,9090,http,,,CN,Shenzhen,http://112.74.60.125:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+121.13.55.136:9090,121.13.55.136,9090,http,,,CN,Dongguan,http://121.13.55.136:9090,Chinanet
+39.84.201.110:9090,39.84.201.110,9090,http,,,CN,Linyi,http://39.84.201.110:9090,CHINA UNICOM China169 Backbone
+124.222.110.140:9090,124.222.110.140,9090,http,,,CN,Beijing,http://124.222.110.140:9090,Shenzhen Tencent Computer Systems Company Limited
+116.198.235.61:9090,116.198.235.61,9090,http,,,CN,Beijing,http://116.198.235.61:9090,CHINATELECOM Jiangsu Suqian IDC network
+47.109.91.63:9090,47.109.91.63,9090,http,,,CN,Hangzhou,http://47.109.91.63:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+175.24.179.2:9090,175.24.179.2,9090,http,,,CN,Beijing,http://175.24.179.2:9090,Shenzhen Tencent Computer Systems Company Limited
+202.38.78.122:9090,202.38.78.122,9090,http,,,CN,Hefei,http://202.38.78.122:9090,China Education and Research Network Center
+115.205.150.151:9090,115.205.150.151,9090,http,,,CN,Hangzhou,http://115.205.150.151:9090,Chinanet
+175.178.165.172:9090,175.178.165.172,9090,http,,,CN,Beijing,http://175.178.165.172:9090,Shenzhen Tencent Computer Systems Company Limited
+123.56.226.244:9090,123.56.226.244,9090,http,,,CN,Beijing,http://123.56.226.244:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+121.40.226.212:9090,121.40.226.212,9090,http,,,CN,Hangzhou,http://121.40.226.212:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+175.44.42.27:9090,175.44.42.27,9090,http,,,CN,Putian,http://175.44.42.27:9090,CHINA UNICOM China169 Backbone
+117.30.163.23:9090,117.30.163.23,9090,http,,,CN,Xiamen,http://117.30.163.23:9090,Chinanet
+119.3.158.134:9090,119.3.158.134,9090,http,,,CN,Guangzhou,http://119.3.158.134:9090,Huawei Cloud Service data center
+123.116.127.239:9090,123.116.127.239,9090,http,,,CN,Beijing,http://123.116.127.239:9090,China Unicom Beijing Province Network
+139.196.124.211:9090,139.196.124.211,9090,http,,,CN,Shanghai,http://139.196.124.211:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+120.46.171.238:9090,120.46.171.238,9090,http,,,CN,Guangzhou,http://120.46.171.238:9090,Huawei Cloud Service data center
+222.211.225.135:9090,222.211.225.135,9090,http,,,CN,Chengdu,http://222.211.225.135:9090,Chinanet
+121.207.144.17:9090,121.207.144.17,9090,http,,,CN,Xiamen,http://121.207.144.17:9090,Chinanet
+125.119.99.224:9090,125.119.99.224,9090,http,,,CN,Hangzhou,http://125.119.99.224:9090,Chinanet
+60.28.59.242:9090,60.28.59.242,9090,http,,,CN,Tianjin,http://60.28.59.242:9090,CHINA UNICOM China169 Backbone
+183.154.47.205:9090,183.154.47.205,9090,http,,,CN,Jinhua,http://183.154.47.205:9090,Chinanet
+27.154.223.91:9090,27.154.223.91,9090,http,,,CN,Xiamen,http://27.154.223.91:9090,Chinanet
+180.163.88.62:9090,180.163.88.62,9090,http,,,CN,Shanghai,http://180.163.88.62:9090,China Telecom Group
+www.unsher.com:9090,124.223.167.5,9090,http,,unsher.com,CN,Beijing,http://www.unsher.com:9090,Shenzhen Tencent Computer Systems Company Limited
+113.14.180.220:9090,113.14.180.220,9090,http,,,CN,Nanning,http://113.14.180.220:9090,Chinanet
+47.122.62.93:9090,47.122.62.93,9090,http,,,CN,Hangzhou,http://47.122.62.93:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+123.207.71.1:9000,123.207.71.1,9000,http,,,CN,Beijing,http://123.207.71.1:9000,Shenzhen Tencent Computer Systems Company Limited
+47.93.220.24:9090,47.93.220.24,9090,http,,,CN,Hangzhou,http://47.93.220.24:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+124.222.115.252:9090,124.222.115.252,9090,http,,,CN,Beijing,http://124.222.115.252:9090,Shenzhen Tencent Computer Systems Company Limited
+110.41.16.196:9090,110.41.16.196,9090,http,,,CN,Guangzhou,http://110.41.16.196:9090,Huawei Cloud Service data center
+43.159.49.123:9090,43.159.49.123,9090,http,,,SG,Singapore,http://43.159.49.123:9090,"Tencent Building, Kejizhongyi Avenue"
+103.146.52.151:9090,103.146.52.151,9090,http,,,CN,Hong Kong,http://103.146.52.151:9090,YISU CLOUD LTD
+125.119.225.229:9090,125.119.225.229,9090,http,,,CN,Hangzhou,http://125.119.225.229:9090,Chinanet
+182.129.139.2:9090,182.129.139.2,9090,http,,,CN,Luzhou,http://182.129.139.2:9090,CHINATELECOM SiChuan province Luzhou 5G network
+43.137.51.56:9090,43.137.51.56,9090,http,,,CN,Beijing,http://43.137.51.56:9090,Shenzhen Tencent Computer Systems Company Limited
+175.178.173.230:9090,175.178.173.230,9090,http,,,CN,Beijing,http://175.178.173.230:9090,Shenzhen Tencent Computer Systems Company Limited
+60.186.29.199:8090,60.186.29.199,8090,http,,,CN,Hangzhou,http://60.186.29.199:8090,Chinanet
+115.230.116.86:9090,115.230.116.86,9090,http,,,CN,Hangzhou,http://115.230.116.86:9090,Chinanet
+180.76.248.182:9090,180.76.248.182,9090,http,,,CN,Beijing,http://180.76.248.182:9090,"Beijing Baidu Netcom Science and Technology Co., Ltd."
+113.87.202.31:9090,113.87.202.31,9090,http,,,CN,Shenzhen,http://113.87.202.31:9090,Chinanet
+154.198.245.40:9090,154.198.245.40,9090,http,,,US,Los Angeles,http://154.198.245.40:9090,CNSERVERS
+121.4.94.182:9090,121.4.94.182,9090,http,,,CN,Beijing,http://121.4.94.182:9090,Shenzhen Tencent Computer Systems Company Limited
+14.154.194.131:9090,14.154.194.131,9090,http,,,CN,Shenzhen,http://14.154.194.131:9090,Chinanet
+116.226.63.119:9090,116.226.63.119,9090,http,,,CN,Shanghai,http://116.226.63.119:9090,China Telecom Group
+118.250.39.9:9090,118.250.39.9,9090,http,,,CN,Changsha,http://118.250.39.9:9090,Chinanet
+114.113.235.27:9090,114.113.235.27,9090,http,,,CN,Beijing,http://114.113.235.27:9090,China Unicom Beijing Province Network
+39.165.86.185:9090,39.165.86.185,9090,http,,,CN,Shangqiu,http://39.165.86.185:9090,"Henan Mobile Communications Co.,Ltd"
+8.140.50.217:9090,8.140.50.217,9090,http,,,CN,Beijing,http://8.140.50.217:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+101.42.11.215:9090,101.42.11.215,9090,http,,,CN,Beijing,http://101.42.11.215:9090,Shenzhen Tencent Computer Systems Company Limited
+49.84.254.143:9090,49.84.254.143,9090,http,,,CN,Suzhou,http://49.84.254.143:9090,Chinanet
+115.29.178.150:9090,115.29.178.150,9090,http,,,CN,Hangzhou,http://115.29.178.150:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+43.224.249.164:9090,43.224.249.164,9090,http,,,CN,Hong Kong,http://43.224.249.164:9090,Cloudie Limited
+139.199.202.93:9090,139.199.202.93,9090,http,,,CN,Beijing,http://139.199.202.93:9090,Shenzhen Tencent Computer Systems Company Limited
+218.83.6.14:9090,218.83.6.14,9090,http,,,CN,Shanghai,http://218.83.6.14:9090,China Telecom Group
+47.104.85.45:9090,47.104.85.45,9090,http,,,CN,Qingdao,http://47.104.85.45:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+61.141.113.107:9090,61.141.113.107,9090,http,,,CN,Shenzhen,http://61.141.113.107:9090,Chinanet
+183.146.216.192:9090,183.146.216.192,9090,http,,,CN,Jinhua,http://183.146.216.192:9090,Chinanet
+https://clashapi.mm.qimooc.com,47.94.80.160,443,https,,qimooc.com,CN,Hangzhou,https://clashapi.mm.qimooc.com,"Hangzhou Alibaba Advertising Co.,Ltd."
+8.130.131.175:9090,8.130.131.175,9090,http,,,CN,Beijing,http://8.130.131.175:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+47.107.90.179:9090,47.107.90.179,9090,http,,,CN,Hangzhou,http://47.107.90.179:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+111.173.80.149:9090,111.173.80.149,9090,http,,,CN,Wuhan,http://111.173.80.149:9090,Chinanet
+118.31.223.52:9090,118.31.223.52,9090,http,,,CN,Hangzhou,http://118.31.223.52:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+121.60.56.31:9090,121.60.56.31,9090,http,,,CN,Wuhan,http://121.60.56.31:9090,Chinanet
+123.10.76.58:9090,123.10.76.58,9090,http,,,CN,Luohe,http://123.10.76.58:9090,CHINA UNICOM China169 Backbone
+101.132.236.100:9090,101.132.236.100,9090,http,,,CN,Shanghai,http://101.132.236.100:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+101.204.208.231:9090,101.204.208.231,9090,http,,,CN,Chengdu,http://101.204.208.231:9090,CHINA UNICOM China169 Backbone
+202.55.240.54:9091,202.55.240.54,9091,http,,,CN,Taipei,http://202.55.240.54:9091,AboveNet Communications Taiwan
+60.186.86.122:9090,60.186.86.122,9090,http,,,CN,Hangzhou,http://60.186.86.122:9090,Chinanet
+8.147.234.68:9090,8.147.234.68,9090,http,,,CN,Hangzhou,http://8.147.234.68:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+111.21.46.78:9090,111.21.46.78,9090,http,,,CN,Xi'an,http://111.21.46.78:9090,"China Mobile Communications Group Co., Ltd."
+14.19.150.199:9090,14.19.150.199,9090,http,,,CN,Guangzhou,http://14.19.150.199:9090,Chinanet
+119.5.1.23:9090,119.5.1.23,9090,http,,,CN,Nanchong,http://119.5.1.23:9090,CHINA UNICOM China169 Backbone
+218.0.238.44:9090,218.0.238.44,9090,http,,,CN,Hangzhou,http://218.0.238.44:9090,Chinanet
+116.62.178.211:9090,116.62.178.211,9090,http,,,CN,Hangzhou,http://116.62.178.211:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+115.199.57.162:9090,115.199.57.162,9090,http,,,CN,Hangzhou,http://115.199.57.162:9090,Chinanet
+101.200.129.164:9090,101.200.129.164,9090,http,,,CN,Beijing,http://101.200.129.164:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+125.104.248.167:9090,125.104.248.167,9090,http,,,CN,Taizhou,http://125.104.248.167:9090,Chinanet
+42.194.185.69:9090,42.194.185.69,9090,http,,,CN,Beijing,http://42.194.185.69:9090,Shenzhen Tencent Computer Systems Company Limited
+1.197.140.83:9090,1.197.140.83,9090,http,,,CN,Xuchang,http://1.197.140.83:9090,Chinanet
+47.99.123.43:9090,47.99.123.43,9090,http,,,CN,Hangzhou,http://47.99.123.43:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+110.41.154.7:9090,110.41.154.7,9090,http,,,CN,Guangzhou,http://110.41.154.7:9090,Huawei Cloud Service data center
+183.251.2.43:9090,183.251.2.43,9090,http,,,CN,Fuzhou,http://183.251.2.43:9090,"China Mobile Communications Group Co., Ltd."
+111.197.201.235:9090,111.197.201.235,9090,http,,,CN,Beijing,http://111.197.201.235:9090,China Unicom Beijing Province Network
+124.221.110.217:9090,124.221.110.217,9090,http,,,CN,Beijing,http://124.221.110.217:9090,Shenzhen Tencent Computer Systems Company Limited
+47.101.63.98:9090,47.101.63.98,9090,http,,,CN,Hangzhou,http://47.101.63.98:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+58.209.16.134:9090,58.209.16.134,9090,http,,,CN,Suzhou,http://58.209.16.134:9090,Chinanet
+111.196.134.60:9090,111.196.134.60,9090,http,,,CN,Beijing,http://111.196.134.60:9090,China Unicom Beijing Province Network
+111.163.59.97:9090,111.163.59.97,9090,http,,,CN,Tianjin,http://111.163.59.97:9090,CHINA UNICOM China169 Backbone
+1.117.71.153:9090,1.117.71.153,9090,http,,,CN,Beijing,http://1.117.71.153:9090,Shenzhen Tencent Computer Systems Company Limited
+47.102.40.131:9090,47.102.40.131,9090,http,,,CN,Hangzhou,http://47.102.40.131:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+115.57.243.209:9090,115.57.243.209,9090,http,,,CN,Zhengzhou,http://115.57.243.209:9090,CHINA UNICOM China169 Backbone
+42.51.17.68:9090,42.51.17.68,9090,http,,,CN,Zhengzhou,http://42.51.17.68:9090,"Zhengzhou Fastidc Technology Co.,Ltd."
+59.56.146.70:9090,59.56.146.70,9090,http,,,CN,Fuqing,http://59.56.146.70:9090,Chinanet
+124.221.78.60:9090,124.221.78.60,9090,http,,,CN,Beijing,http://124.221.78.60:9090,Shenzhen Tencent Computer Systems Company Limited
+112.132.233.78:9090,112.132.233.78,9090,http,,,CN,Huaibei,http://112.132.233.78:9090,CHINA UNICOM China169 Backbone
+180.158.207.44:9090,180.158.207.44,9090,http,,,CN,Shanghai,http://180.158.207.44:9090,China Telecom Group
+112.64.108.108:9090,112.64.108.108,9090,http,,,CN,Shanghai,http://112.64.108.108:9090,China Unicom Shanghai network
+47.108.92.89:9090,47.108.92.89,9090,http,,,CN,Chengdu,http://47.108.92.89:9090,"Hangzhou Alibaba Advertising Co.,Ltd."
+49.51.52.31:9090,49.51.52.31,9090,http,,,US,Los Angeles,http://49.51.52.31:9090,"Tencent Building, Kejizhongyi Avenue"
+117.72.70.63:9090,117.72.70.63,9090,http,,,CN,Beijing,http://117.72.70.63:9090,
+139.199.210.195:9090,139.199.210.195,9090,http,,,CN,Beijing,http://139.199.210.195:9090,Shenzhen Tencent Computer Systems Company Limited
+123.10.133.45:6080,123.10.133.45,6080,http,,,CN,Shangqiu,http://123.10.133.45:6080,CHINA UNICOM China169 Backbone
+180.102.26.44:9093,180.102.26.44,9093,http,,,CN,Nanjing,http://180.102.26.44:9093,CHINANET Nanjing Jishan IDC network
+101.126.90.109:9091,101.126.90.109,9091,http,,,CN,Beijing,http://101.126.90.109:9091,
+47.93.213.107:55555,47.93.213.107,55555,http,,,CN,Hangzhou,http://47.93.213.107:55555,"Hangzhou Alibaba Advertising Co.,Ltd."
+202.55.240.54:9093,202.55.240.54,9093,http,,,CN,Taipei,http://202.55.240.54:9093,AboveNet Communications Taiwan
+101.6.69.132:2050,101.6.69.132,2050,http,,,CN,Beijing,http://101.6.69.132:2050,China Education and Research Network Center
+118.89.86.220,118.89.86.220,80,http,,,CN,Beijing,http://118.89.86.220,Shenzhen Tencent Computer Systems Company Limited
+106.14.106.96:9099,106.14.106.96,9099,http,,,CN,Shanghai,http://106.14.106.96:9099,"Hangzhou Alibaba Advertising Co.,Ltd."
+119.181.242.86:9999,119.181.242.86,9999,http,,,CN,Zibo,http://119.181.242.86:9999,CHINA UNICOM China169 Backbone
+122.235.222.224:9999,122.235.222.224,9999,http,,,CN,Hangzhou,http://122.235.222.224:9999,Chinanet
+49.65.102.237:9091,49.65.102.237,9091,http,,,CN,Nanjing,http://49.65.102.237:9091,CHINANET Nanjing Jishan IDC network
+124.222.127.174:9999,124.222.127.174,9999,http,,,CN,Beijing,http://124.222.127.174:9999,Shenzhen Tencent Computer Systems Company Limited
+43.136.123.46:9999,43.136.123.46,9999,http,,,CN,Beijing,http://43.136.123.46:9999,Shenzhen Tencent Computer Systems Company Limited
+81.69.218.70:9999,81.69.218.70,9999,http,,,CN,Beijing,http://81.69.218.70:9999,Shenzhen Tencent Computer Systems Company Limited
+47.104.85.45:9999,47.104.85.45,9999,http,,,CN,Qingdao,http://47.104.85.45:9999,"Hangzhou Alibaba Advertising Co.,Ltd."
+120.46.69.160:9999,120.46.69.160,9999,http,,,CN,Guangzhou,http://120.46.69.160:9999,Huawei Cloud Service data center
+124.223.97.89:9999,124.223.97.89,9999,http,,,CN,Beijing,http://124.223.97.89:9999,Shenzhen Tencent Computer Systems Company Limited
+123.60.7.56:9999,123.60.7.56,9999,http,,,CN,Shanghai,http://123.60.7.56:9999,Huawei Cloud Service data center
+e7c.myds.me:9090,220.165.187.42,9090,http,,e7c.myds.me,CN,Kunming,http://e7c.myds.me:9090,Chinanet
+219.131.11.56:9191,219.131.11.56,9191,http,,,CN,Huizhou,http://219.131.11.56:9191,Chinanet
+121.239.24.28:9999,121.239.24.28,9999,http,,,CN,Suzhou,http://121.239.24.28:9999,Chinanet
+106.122.201.43:9090,106.122.201.43,9090,http,,,CN,Guangzhou,http://106.122.201.43:9090,Chinanet
+106.75.78.228:9999,106.75.78.228,9999,http,,,CN,Shanghai,http://106.75.78.228:9999,"China Mobile Communications Group Co., Ltd."
+120.79.89.81:9999,120.79.89.81,9999,http,,,CN,Hangzhou,http://120.79.89.81:9999,"Hangzhou Alibaba Advertising Co.,Ltd."
+112.38.220.89:9091,112.38.220.89,9091,http,,,CN,Liaocheng,http://112.38.220.89:9091,Shandong Mobile Communication Company Limited
+115.49.240.99:6080,115.49.240.99,6080,http,,,CN,Shangqiu,http://115.49.240.99:6080,CHINA UNICOM China169 Backbone
+111.224.136.204:9090,111.224.136.204,9090,http,,,CN,Shijiazhuang,http://111.224.136.204:9090,Chinanet
+14.19.168.124:9999,14.19.168.124,9999,http,,,CN,Guangzhou,http://14.19.168.124:9999,Chinanet
+119.34.138.181:9999,119.34.138.181,9999,http,,,CN,Guangzhou,http://119.34.138.181:9999,CHINANET Guangdong province Guangzhou MAN network
+27.46.124.11:9999,27.46.124.11,9999,http,,,CN,Shenzhen,http://27.46.124.11:9999,China Unicom Shenzen network
+107.173.199.207:9999,107.173.199.207,9999,http,,,US,Buffalo,http://107.173.199.207:9999,AS-COLOCROSSING
+113.87.186.121:9090,113.87.186.121,9090,http,,,CN,Shenzhen,http://113.87.186.121:9090,Chinanet
+39.75.218.116:9999,39.75.218.116,9999,http,,,CN,Zibo,http://39.75.218.116:9999,CHINA UNICOM China169 Backbone
+119.181.243.60:9999,119.181.243.60,9999,http,,,CN,Zibo,http://119.181.243.60:9999,CHINA UNICOM China169 Backbone
+39.75.220.163:9999,39.75.220.163,9999,http,,,CN,Zibo,http://39.75.220.163:9999,CHINA UNICOM China169 Backbone
+1.12.226.95:9999,1.12.226.95,9999,http,,,CN,Beijing,http://1.12.226.95:9999,Shenzhen Tencent Computer Systems Company Limited
+114.234.239.178:9090,114.234.239.178,9090,http,,,CN,Xuzhou,http://114.234.239.178:9090,Chinanet
+115.55.28.111:9090,115.55.28.111,9090,http,,,CN,Shangqiu,http://115.55.28.111:9090,CHINA UNICOM China169 Backbone
